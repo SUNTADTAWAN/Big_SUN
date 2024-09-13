@@ -1,4 +1,4 @@
-#FUN 3.5 IN FRA501_ROBOTICS DEVOP
+# FUN 3.5 IN FRA501_ROBOTICS DEVOP
 ### How to run
 1. Clone the repository:
    ```sh
