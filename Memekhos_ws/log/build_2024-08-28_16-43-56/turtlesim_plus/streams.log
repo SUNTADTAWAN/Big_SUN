@@ -1,0 +1,64 @@
+[0.037s] Invoking command in '/home/aitthikit/Memekhos_ws/build/turtlesim_plus': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aitthikit/Memekhos_ws/install/launch_testing_examples:/home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_subscriber:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_service:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_guard_conditions:/home/aitthikit/Memekhos_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/aitthikit/Memekhos_ws/build/turtlesim_plus -- -j12 -l12
+[0.135s] Built target ament_cmake_python_copy_turtlesim_plus
+[0.520s] running egg_info
+[0.524s] writing turtlesim_plus.egg-info/PKG-INFO
+[0.524s] writing dependency_links to turtlesim_plus.egg-info/dependency_links.txt
+[0.524s] writing top-level names to turtlesim_plus.egg-info/top_level.txt
+[0.525s] reading manifest file 'turtlesim_plus.egg-info/SOURCES.txt'
+[0.525s] writing manifest file 'turtlesim_plus.egg-info/SOURCES.txt'
+[0.557s] Built target ament_cmake_python_build_turtlesim_plus_egg
+[0.568s] Invoked command in '/home/aitthikit/Memekhos_ws/build/turtlesim_plus' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aitthikit/Memekhos_ws/install/launch_testing_examples:/home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_subscriber:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_service:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_guard_conditions:/home/aitthikit/Memekhos_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/aitthikit/Memekhos_ws/build/turtlesim_plus -- -j12 -l12
+[0.595s] Invoking command in '/home/aitthikit/Memekhos_ws/build/turtlesim_plus': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aitthikit/Memekhos_ws/install/launch_testing_examples:/home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_subscriber:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_service:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_guard_conditions:/home/aitthikit/Memekhos_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/aitthikit/Memekhos_ws/build/turtlesim_plus
+[0.602s] -- Install configuration: ""
+[0.603s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/turtlesim_plus/share/turtlesim_plus/environment/pythonpath.sh
+[0.603s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/turtlesim_plus/share/turtlesim_plus/environment/pythonpath.dsv
+[0.603s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus-1.0.0-py3.10.egg-info
+[0.603s] -- Installing: /home/aitthikit/Memekhos_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus-1.0.0-py3.10.egg-info/dependency_links.txt
+[0.603s] -- Installing: /home/aitthikit/Memekhos_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus-1.0.0-py3.10.egg-info/SOURCES.txt
+[0.604s] -- Installing: /home/aitthikit/Memekhos_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus-1.0.0-py3.10.egg-info/top_level.txt
+[0.604s] -- Installing: /home/aitthikit/Memekhos_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus-1.0.0-py3.10.egg-info/PKG-INFO
+[0.604s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus
+[0.604s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image
+[0.604s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/turtle
+[0.604s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/turtle/bouncy.png
+[0.604s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/turtle/otto.png
+[0.605s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/turtle/dashing.png
+[0.605s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/turtle/crystal.png
+[0.605s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/turtle/galactic.png
+[0.605s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/turtle/rolling.png
+[0.606s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/turtle/ardent.png
+[0.606s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/turtle/eloquent.png
+[0.606s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/turtle/foxy.png
+[0.606s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/turtle/humble.png
+[0.606s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/object
+[0.607s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/object/parcel.png
+[0.607s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/object/pizza.png
+[0.607s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/map
+[0.607s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/map/map.png
+[0.608s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/ros2_plugins.py
+[0.608s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/__init__.py
+[0.609s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/entity.py
+[0.643s] Listing '/home/aitthikit/Memekhos_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus'...
+[0.643s] Listing '/home/aitthikit/Memekhos_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image'...
+[0.644s] Listing '/home/aitthikit/Memekhos_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/map'...
+[0.644s] Listing '/home/aitthikit/Memekhos_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/object'...
+[0.644s] Listing '/home/aitthikit/Memekhos_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/turtle'...
+[0.646s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/turtlesim_plus/lib/turtlesim_plus/turtlesim_plus_node.py
+[0.647s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/turtlesim_plus/lib/turtlesim_plus/pizza_on_click.py
+[0.647s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/turtlesim_plus/share/turtlesim_plus
+[0.647s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/turtlesim_plus/share/ament_index/resource_index/package_run_dependencies/turtlesim_plus
+[0.647s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/turtlesim_plus/share/ament_index/resource_index/parent_prefix_path/turtlesim_plus
+[0.647s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/turtlesim_plus/share/turtlesim_plus/environment/ament_prefix_path.sh
+[0.647s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/turtlesim_plus/share/turtlesim_plus/environment/ament_prefix_path.dsv
+[0.647s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/turtlesim_plus/share/turtlesim_plus/environment/path.sh
+[0.647s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/turtlesim_plus/share/turtlesim_plus/environment/path.dsv
+[0.647s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/turtlesim_plus/share/turtlesim_plus/local_setup.bash
+[0.647s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/turtlesim_plus/share/turtlesim_plus/local_setup.sh
+[0.648s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/turtlesim_plus/share/turtlesim_plus/local_setup.zsh
+[0.648s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/turtlesim_plus/share/turtlesim_plus/local_setup.dsv
+[0.648s] -- Installing: /home/aitthikit/Memekhos_ws/install/turtlesim_plus/share/turtlesim_plus/package.dsv
+[0.648s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/turtlesim_plus/share/ament_index/resource_index/packages/turtlesim_plus
+[0.648s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/turtlesim_plus/share/turtlesim_plus/cmake/turtlesim_plusConfig.cmake
+[0.648s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/turtlesim_plus/share/turtlesim_plus/cmake/turtlesim_plusConfig-version.cmake
+[0.648s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/turtlesim_plus/share/turtlesim_plus/package.xml
+[0.649s] Invoked command in '/home/aitthikit/Memekhos_ws/build/turtlesim_plus' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aitthikit/Memekhos_ws/install/launch_testing_examples:/home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_subscriber:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_service:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_guard_conditions:/home/aitthikit/Memekhos_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/aitthikit/Memekhos_ws/build/turtlesim_plus

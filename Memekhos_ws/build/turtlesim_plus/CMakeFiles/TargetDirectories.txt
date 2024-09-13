@@ -1,0 +1,11 @@
+/home/aitthikit/Memekhos_ws/build/turtlesim_plus/CMakeFiles/uninstall.dir
+/home/aitthikit/Memekhos_ws/build/turtlesim_plus/CMakeFiles/turtlesim_plus_uninstall.dir
+/home/aitthikit/Memekhos_ws/build/turtlesim_plus/CMakeFiles/ament_cmake_python_copy_turtlesim_plus.dir
+/home/aitthikit/Memekhos_ws/build/turtlesim_plus/CMakeFiles/ament_cmake_python_build_turtlesim_plus_egg.dir
+/home/aitthikit/Memekhos_ws/build/turtlesim_plus/CMakeFiles/test.dir
+/home/aitthikit/Memekhos_ws/build/turtlesim_plus/CMakeFiles/edit_cache.dir
+/home/aitthikit/Memekhos_ws/build/turtlesim_plus/CMakeFiles/rebuild_cache.dir
+/home/aitthikit/Memekhos_ws/build/turtlesim_plus/CMakeFiles/list_install_components.dir
+/home/aitthikit/Memekhos_ws/build/turtlesim_plus/CMakeFiles/install.dir
+/home/aitthikit/Memekhos_ws/build/turtlesim_plus/CMakeFiles/install/local.dir
+/home/aitthikit/Memekhos_ws/build/turtlesim_plus/CMakeFiles/install/strip.dir

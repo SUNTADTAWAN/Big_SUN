@@ -1,0 +1,21 @@
+[2.453s] Invoking command in '/home/aitthikit/Memekhos_ws/src/examples/rclpy/guard_conditions': PYTHONPATH=/home/aitthikit/Memekhos_ws/build/examples_rclpy_guard_conditions/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aitthikit/Memekhos_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../build/examples_rclpy_guard_conditions build --build-base /home/aitthikit/Memekhos_ws/build/examples_rclpy_guard_conditions/build install --record /home/aitthikit/Memekhos_ws/build/examples_rclpy_guard_conditions/install.log --single-version-externally-managed install_data
+[2.824s] running egg_info
+[2.826s] writing ../../../../build/examples_rclpy_guard_conditions/examples_rclpy_guard_conditions.egg-info/PKG-INFO
+[2.826s] writing dependency_links to ../../../../build/examples_rclpy_guard_conditions/examples_rclpy_guard_conditions.egg-info/dependency_links.txt
+[2.826s] writing entry points to ../../../../build/examples_rclpy_guard_conditions/examples_rclpy_guard_conditions.egg-info/entry_points.txt
+[2.827s] writing requirements to ../../../../build/examples_rclpy_guard_conditions/examples_rclpy_guard_conditions.egg-info/requires.txt
+[2.827s] writing top-level names to ../../../../build/examples_rclpy_guard_conditions/examples_rclpy_guard_conditions.egg-info/top_level.txt
+[2.830s] reading manifest file '../../../../build/examples_rclpy_guard_conditions/examples_rclpy_guard_conditions.egg-info/SOURCES.txt'
+[2.831s] writing manifest file '../../../../build/examples_rclpy_guard_conditions/examples_rclpy_guard_conditions.egg-info/SOURCES.txt'
+[2.831s] running build
+[2.831s] running build_py
+[2.832s] running install
+[2.832s] running install_lib
+[2.834s] running install_data
+[2.834s] running install_egg_info
+[2.838s] removing '/home/aitthikit/Memekhos_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages/examples_rclpy_guard_conditions-0.15.2-py3.10.egg-info' (and everything under it)
+[2.841s] Copying ../../../../build/examples_rclpy_guard_conditions/examples_rclpy_guard_conditions.egg-info to /home/aitthikit/Memekhos_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages/examples_rclpy_guard_conditions-0.15.2-py3.10.egg-info
+[2.850s] running install_scripts
+[2.891s] Installing trigger_guard_condition script to /home/aitthikit/Memekhos_ws/install/examples_rclpy_guard_conditions/lib/examples_rclpy_guard_conditions
+[2.891s] writing list of installed files to '/home/aitthikit/Memekhos_ws/build/examples_rclpy_guard_conditions/install.log'
+[3.097s] Invoked command in '/home/aitthikit/Memekhos_ws/src/examples/rclpy/guard_conditions' returned '0': PYTHONPATH=/home/aitthikit/Memekhos_ws/build/examples_rclpy_guard_conditions/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aitthikit/Memekhos_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../build/examples_rclpy_guard_conditions build --build-base /home/aitthikit/Memekhos_ws/build/examples_rclpy_guard_conditions/build install --record /home/aitthikit/Memekhos_ws/build/examples_rclpy_guard_conditions/install.log --single-version-externally-managed install_data

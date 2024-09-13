@@ -1,0 +1,169 @@
+[0.070s] Invoking command in '/home/aitthikit/Memekhos_ws/build/controller_interface': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aitthikit/Memekhos_ws/install/launch_testing_examples:/home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_subscriber:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_service:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_guard_conditions:/home/aitthikit/Memekhos_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/aitthikit/Memekhos_ws/build/controller_interface -- -j12 -l12
+[0.163s] [  2%] Built target controller_interface__cpp
+[0.170s] [ 12%] Built target controller_interface__rosidl_generator_c
+[0.201s] [ 12%] Built target ament_cmake_python_copy_controller_interface
+[0.236s] [ 23%] Built target controller_interface__rosidl_typesupport_cpp
+[0.271s] [ 33%] Built target controller_interface__rosidl_typesupport_introspection_cpp
+[0.271s] [ 43%] Built target controller_interface__rosidl_typesupport_c
+[0.271s] [ 53%] Built target controller_interface__rosidl_typesupport_fastrtps_cpp
+[0.273s] [ 64%] Built target controller_interface__rosidl_typesupport_introspection_c
+[0.297s] [ 74%] Built target controller_interface__rosidl_typesupport_fastrtps_c
+[0.328s] [ 74%] Built target controller_interface
+[0.378s] [ 76%] Built target controller_interface__py
+[0.378s] [ 84%] Built target controller_interface__rosidl_generator_py
+[0.401s] [ 89%] Built target controller_interface__rosidl_typesupport_fastrtps_c__pyext
+[0.402s] [ 94%] Built target controller_interface__rosidl_typesupport_introspection_c__pyext
+[0.405s] [100%] Built target controller_interface__rosidl_typesupport_c__pyext
+[0.613s] running egg_info
+[0.614s] writing controller_interface.egg-info/PKG-INFO
+[0.614s] writing dependency_links to controller_interface.egg-info/dependency_links.txt
+[0.614s] writing top-level names to controller_interface.egg-info/top_level.txt
+[0.616s] reading manifest file 'controller_interface.egg-info/SOURCES.txt'
+[0.617s] writing manifest file 'controller_interface.egg-info/SOURCES.txt'
+[0.645s] [100%] Built target ament_cmake_python_build_controller_interface_egg
+[1.821s] Invoked command in '/home/aitthikit/Memekhos_ws/build/controller_interface' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aitthikit/Memekhos_ws/install/launch_testing_examples:/home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_subscriber:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_service:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_guard_conditions:/home/aitthikit/Memekhos_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/aitthikit/Memekhos_ws/build/controller_interface -- -j12 -l12
+[2.372s] Invoking command in '/home/aitthikit/Memekhos_ws/build/controller_interface': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aitthikit/Memekhos_ws/install/launch_testing_examples:/home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_subscriber:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_service:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_guard_conditions:/home/aitthikit/Memekhos_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/aitthikit/Memekhos_ws/build/controller_interface
+[2.919s] -- Install configuration: ""
+[2.920s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/ament_index/resource_index/rosidl_interfaces/controller_interface
+[2.920s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface
+[2.921s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/srv
+[2.922s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/srv/detail
+[2.922s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/srv/detail/set_param__struct.h
+[2.923s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/srv/detail/set_param__functions.c
+[2.925s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/srv/detail/set_target__struct.h
+[2.925s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/srv/detail/set_param__type_support.h
+[2.925s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/srv/detail/set_target__functions.c
+[2.925s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/srv/detail/set_target__type_support.h
+[2.925s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/srv/detail/set_target__functions.h
+[2.925s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/srv/detail/set_param__functions.h
+[2.926s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/srv/set_target.h
+[2.926s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/srv/set_param.h
+[2.926s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/msg
+[2.926s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/msg/rosidl_generator_c__visibility_control.h
+[2.927s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/environment/library_path.sh
+[2.927s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/environment/library_path.dsv
+[2.927s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/lib/libcontroller_interface__rosidl_generator_c.so
+[2.927s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface
+[2.927s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/srv
+[2.927s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/srv/detail
+[2.928s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/srv/detail/set_param__rosidl_typesupport_fastrtps_c.h
+[2.928s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/srv/detail/set_target__rosidl_typesupport_fastrtps_c.h
+[2.928s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/msg
+[2.928s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[2.928s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/lib/libcontroller_interface__rosidl_typesupport_fastrtps_c.so
+[2.928s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface
+[2.929s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/srv
+[2.929s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/srv/detail
+[2.929s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/srv/detail/set_param__struct.hpp
+[2.929s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/srv/detail/set_target__struct.hpp
+[2.929s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/srv/detail/set_target__builder.hpp
+[2.929s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/srv/detail/set_param__builder.hpp
+[2.930s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/srv/detail/set_target__traits.hpp
+[2.930s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/srv/detail/set_param__traits.hpp
+[2.931s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/srv/set_target.hpp
+[2.931s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/srv/set_param.hpp
+[2.931s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface
+[2.931s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/srv
+[2.931s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/srv/detail
+[2.931s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/srv/detail/set_target__rosidl_typesupport_fastrtps_cpp.hpp
+[2.932s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/srv/detail/set_param__rosidl_typesupport_fastrtps_cpp.hpp
+[2.932s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/srv/detail/dds_fastrtps
+[2.932s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/msg
+[2.932s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[2.933s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/lib/libcontroller_interface__rosidl_typesupport_fastrtps_cpp.so
+[2.933s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface
+[2.933s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/srv
+[2.934s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/srv/detail
+[2.934s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/srv/detail/set_param__rosidl_typesupport_introspection_c.h
+[2.934s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/srv/detail/set_target__type_support.c
+[2.935s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/srv/detail/set_param__type_support.c
+[2.935s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/srv/detail/set_target__rosidl_typesupport_introspection_c.h
+[2.935s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/msg
+[2.936s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[2.936s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/lib/libcontroller_interface__rosidl_typesupport_introspection_c.so
+[2.936s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/lib/libcontroller_interface__rosidl_typesupport_c.so
+[2.937s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface
+[2.937s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/srv
+[2.937s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/srv/detail
+[2.939s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/srv/detail/set_param__rosidl_typesupport_introspection_cpp.hpp
+[2.939s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/srv/detail/set_param__type_support.cpp
+[2.939s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/srv/detail/set_target__type_support.cpp
+[2.939s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/include/controller_interface/controller_interface/srv/detail/set_target__rosidl_typesupport_introspection_cpp.hpp
+[2.940s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/lib/libcontroller_interface__rosidl_typesupport_introspection_cpp.so
+[2.940s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/lib/libcontroller_interface__rosidl_typesupport_cpp.so
+[2.940s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/environment/pythonpath.sh
+[2.940s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/environment/pythonpath.dsv
+[2.941s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/local/lib/python3.10/dist-packages/controller_interface-0.0.0-py3.10.egg-info
+[2.941s] -- Installing: /home/aitthikit/Memekhos_ws/install/controller_interface/local/lib/python3.10/dist-packages/controller_interface-0.0.0-py3.10.egg-info/dependency_links.txt
+[2.941s] -- Installing: /home/aitthikit/Memekhos_ws/install/controller_interface/local/lib/python3.10/dist-packages/controller_interface-0.0.0-py3.10.egg-info/SOURCES.txt
+[2.942s] -- Installing: /home/aitthikit/Memekhos_ws/install/controller_interface/local/lib/python3.10/dist-packages/controller_interface-0.0.0-py3.10.egg-info/top_level.txt
+[2.942s] -- Installing: /home/aitthikit/Memekhos_ws/install/controller_interface/local/lib/python3.10/dist-packages/controller_interface-0.0.0-py3.10.egg-info/PKG-INFO
+[2.942s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/local/lib/python3.10/dist-packages/controller_interface
+[2.943s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/local/lib/python3.10/dist-packages/controller_interface/_controller_interface_s.ep.rosidl_typesupport_introspection_c.c
+[2.943s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/local/lib/python3.10/dist-packages/controller_interface/controller_interface_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[2.943s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/local/lib/python3.10/dist-packages/controller_interface/srv
+[2.943s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/local/lib/python3.10/dist-packages/controller_interface/srv/_set_param.py
+[2.944s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/local/lib/python3.10/dist-packages/controller_interface/srv/_set_param_s.c
+[2.944s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/local/lib/python3.10/dist-packages/controller_interface/srv/_set_target_s.c
+[2.944s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/local/lib/python3.10/dist-packages/controller_interface/srv/__init__.py
+[2.944s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/local/lib/python3.10/dist-packages/controller_interface/srv/_set_target.py
+[2.945s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/local/lib/python3.10/dist-packages/controller_interface/controller_interface_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[2.948s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/local/lib/python3.10/dist-packages/controller_interface/controller_interface_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[2.948s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/local/lib/python3.10/dist-packages/controller_interface/libcontroller_interface__rosidl_generator_py.so
+[2.948s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/local/lib/python3.10/dist-packages/controller_interface/_controller_interface_s.ep.rosidl_typesupport_fastrtps_c.c
+[2.948s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/local/lib/python3.10/dist-packages/controller_interface/_controller_interface_s.ep.rosidl_typesupport_c.c
+[2.949s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/local/lib/python3.10/dist-packages/controller_interface/__init__.py
+[2.949s] Listing '/home/aitthikit/Memekhos_ws/install/controller_interface/local/lib/python3.10/dist-packages/controller_interface'...
+[2.949s] Listing '/home/aitthikit/Memekhos_ws/install/controller_interface/local/lib/python3.10/dist-packages/controller_interface/srv'...
+[2.949s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/local/lib/python3.10/dist-packages/controller_interface/controller_interface_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[2.949s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/local/lib/python3.10/dist-packages/controller_interface/controller_interface_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[2.950s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/local/lib/python3.10/dist-packages/controller_interface/controller_interface_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[2.950s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/lib/libcontroller_interface__rosidl_generator_py.so
+[2.950s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/srv/SetTarget.idl
+[2.950s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/srv/SetParam.idl
+[2.950s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/srv/SetTarget.srv
+[2.951s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/srv/SetTarget_Request.msg
+[2.951s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/srv/SetTarget_Response.msg
+[2.951s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/srv/SetParam.srv
+[2.951s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/srv/SetParam_Request.msg
+[2.951s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/srv/SetParam_Response.msg
+[2.951s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/ament_index/resource_index/package_run_dependencies/controller_interface
+[2.952s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/ament_index/resource_index/parent_prefix_path/controller_interface
+[2.952s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/environment/ament_prefix_path.sh
+[2.952s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/environment/ament_prefix_path.dsv
+[2.952s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/environment/path.sh
+[2.952s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/environment/path.dsv
+[2.952s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/local_setup.bash
+[2.953s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/local_setup.sh
+[2.953s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/local_setup.zsh
+[2.953s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/local_setup.dsv
+[2.954s] -- Installing: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/package.dsv
+[2.954s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/ament_index/resource_index/packages/controller_interface
+[2.954s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/cmake/export_controller_interface__rosidl_generator_cExport.cmake
+[2.954s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/cmake/export_controller_interface__rosidl_generator_cExport-noconfig.cmake
+[2.955s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/cmake/export_controller_interface__rosidl_typesupport_fastrtps_cExport.cmake
+[2.955s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/cmake/export_controller_interface__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[2.955s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/cmake/export_controller_interface__rosidl_generator_cppExport.cmake
+[2.955s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/cmake/export_controller_interface__rosidl_typesupport_fastrtps_cppExport.cmake
+[2.956s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/cmake/export_controller_interface__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[2.956s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/cmake/controller_interface__rosidl_typesupport_introspection_cExport.cmake
+[2.956s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/cmake/controller_interface__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[2.957s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/cmake/controller_interface__rosidl_typesupport_cExport.cmake
+[2.957s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/cmake/controller_interface__rosidl_typesupport_cExport-noconfig.cmake
+[2.958s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/cmake/controller_interface__rosidl_typesupport_introspection_cppExport.cmake
+[2.958s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/cmake/controller_interface__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[2.958s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/cmake/controller_interface__rosidl_typesupport_cppExport.cmake
+[2.958s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/cmake/controller_interface__rosidl_typesupport_cppExport-noconfig.cmake
+[2.958s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/cmake/export_controller_interface__rosidl_generator_pyExport.cmake
+[2.959s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/cmake/export_controller_interface__rosidl_generator_pyExport-noconfig.cmake
+[2.959s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/cmake/rosidl_cmake-extras.cmake
+[2.959s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/cmake/ament_cmake_export_dependencies-extras.cmake
+[2.959s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/cmake/ament_cmake_export_include_directories-extras.cmake
+[2.960s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/cmake/ament_cmake_export_libraries-extras.cmake
+[2.960s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/cmake/ament_cmake_export_targets-extras.cmake
+[2.962s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[2.962s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[2.962s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/cmake/controller_interfaceConfig.cmake
+[2.962s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/cmake/controller_interfaceConfig-version.cmake
+[2.963s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/controller_interface/share/controller_interface/package.xml
+[2.971s] Invoked command in '/home/aitthikit/Memekhos_ws/build/controller_interface' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aitthikit/Memekhos_ws/install/launch_testing_examples:/home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_subscriber:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_service:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_guard_conditions:/home/aitthikit/Memekhos_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/aitthikit/Memekhos_ws/build/controller_interface

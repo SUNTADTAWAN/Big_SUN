@@ -1,0 +1,20 @@
+[1.057s] Invoking command in '/home/aitthikit/Memekhos_ws/src/examples/launch_testing/launch_testing_examples': PYTHONPATH=/home/aitthikit/Memekhos_ws/build/launch_testing_examples/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aitthikit/Memekhos_ws/install/launch_testing_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../build/launch_testing_examples build --build-base /home/aitthikit/Memekhos_ws/build/launch_testing_examples/build install --record /home/aitthikit/Memekhos_ws/build/launch_testing_examples/install.log --single-version-externally-managed install_data
+[1.351s] running egg_info
+[1.352s] writing ../../../../build/launch_testing_examples/launch_testing_examples.egg-info/PKG-INFO
+[1.353s] writing dependency_links to ../../../../build/launch_testing_examples/launch_testing_examples.egg-info/dependency_links.txt
+[1.353s] writing entry points to ../../../../build/launch_testing_examples/launch_testing_examples.egg-info/entry_points.txt
+[1.353s] writing requirements to ../../../../build/launch_testing_examples/launch_testing_examples.egg-info/requires.txt
+[1.353s] writing top-level names to ../../../../build/launch_testing_examples/launch_testing_examples.egg-info/top_level.txt
+[1.355s] reading manifest file '../../../../build/launch_testing_examples/launch_testing_examples.egg-info/SOURCES.txt'
+[1.356s] writing manifest file '../../../../build/launch_testing_examples/launch_testing_examples.egg-info/SOURCES.txt'
+[1.356s] running build
+[1.356s] running build_py
+[1.357s] running install
+[1.357s] running install_lib
+[1.359s] running install_data
+[1.360s] running install_egg_info
+[1.361s] removing '/home/aitthikit/Memekhos_ws/install/launch_testing_examples/lib/python3.10/site-packages/launch_testing_examples-0.15.2-py3.10.egg-info' (and everything under it)
+[1.362s] Copying ../../../../build/launch_testing_examples/launch_testing_examples.egg-info to /home/aitthikit/Memekhos_ws/install/launch_testing_examples/lib/python3.10/site-packages/launch_testing_examples-0.15.2-py3.10.egg-info
+[1.363s] running install_scripts
+[1.384s] writing list of installed files to '/home/aitthikit/Memekhos_ws/build/launch_testing_examples/install.log'
+[1.402s] Invoked command in '/home/aitthikit/Memekhos_ws/src/examples/launch_testing/launch_testing_examples' returned '0': PYTHONPATH=/home/aitthikit/Memekhos_ws/build/launch_testing_examples/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aitthikit/Memekhos_ws/install/launch_testing_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../build/launch_testing_examples build --build-base /home/aitthikit/Memekhos_ws/build/launch_testing_examples/build install --record /home/aitthikit/Memekhos_ws/build/launch_testing_examples/install.log --single-version-externally-managed install_data

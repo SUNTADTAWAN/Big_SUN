@@ -1,0 +1,25 @@
+[2.970s] Invoking command in '/home/aitthikit/Memekhos_ws/src/examples/rclpy/actions/minimal_action_server': PYTHONPATH=/home/aitthikit/Memekhos_ws/build/examples_rclpy_minimal_action_server/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_action_server build --build-base /home/aitthikit/Memekhos_ws/build/examples_rclpy_minimal_action_server/build install --record /home/aitthikit/Memekhos_ws/build/examples_rclpy_minimal_action_server/install.log --single-version-externally-managed install_data
+[3.401s] running egg_info
+[3.403s] writing ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/PKG-INFO
+[3.403s] writing dependency_links to ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/dependency_links.txt
+[3.403s] writing entry points to ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/entry_points.txt
+[3.404s] writing requirements to ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/requires.txt
+[3.404s] writing top-level names to ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/top_level.txt
+[3.407s] reading manifest file '../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/SOURCES.txt'
+[3.409s] writing manifest file '../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/SOURCES.txt'
+[3.409s] running build
+[3.409s] running build_py
+[3.410s] running install
+[3.410s] running install_lib
+[3.412s] running install_data
+[3.412s] running install_egg_info
+[3.415s] removing '/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server-0.15.2-py3.10.egg-info' (and everything under it)
+[3.418s] Copying ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info to /home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server-0.15.2-py3.10.egg-info
+[3.424s] running install_scripts
+[3.457s] Installing server script to /home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[3.457s] Installing server_defer script to /home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[3.457s] Installing server_not_composable script to /home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[3.457s] Installing server_queue_goals script to /home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[3.458s] Installing server_single_goal script to /home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[3.458s] writing list of installed files to '/home/aitthikit/Memekhos_ws/build/examples_rclpy_minimal_action_server/install.log'
+[3.556s] Invoked command in '/home/aitthikit/Memekhos_ws/src/examples/rclpy/actions/minimal_action_server' returned '0': PYTHONPATH=/home/aitthikit/Memekhos_ws/build/examples_rclpy_minimal_action_server/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_action_server build --build-base /home/aitthikit/Memekhos_ws/build/examples_rclpy_minimal_action_server/build install --record /home/aitthikit/Memekhos_ws/build/examples_rclpy_minimal_action_server/install.log --single-version-externally-managed install_data

@@ -1,0 +1,6 @@
+{
+  "package_name": "lab1_interface",
+  "non_idl_tuples": [
+    "/home/aitthikit/Memekhos_ws/src/lab1_interface:srv/SetNoise.srv"
+  ]
+}

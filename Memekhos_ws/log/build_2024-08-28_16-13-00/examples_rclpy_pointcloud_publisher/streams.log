@@ -1,0 +1,37 @@
+[2.889s] Invoking command in '/home/aitthikit/Memekhos_ws/src/examples/rclpy/topics/pointcloud_publisher': PYTHONPATH=/home/aitthikit/Memekhos_ws/build/examples_rclpy_pointcloud_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../../build/examples_rclpy_pointcloud_publisher build --build-base /home/aitthikit/Memekhos_ws/build/examples_rclpy_pointcloud_publisher/build install --record /home/aitthikit/Memekhos_ws/build/examples_rclpy_pointcloud_publisher/install.log --single-version-externally-managed install_data
+[3.608s] running egg_info
+[3.609s] creating ../../../../../build/examples_rclpy_pointcloud_publisher/examples_rclpy_pointcloud_publisher.egg-info
+[3.609s] writing ../../../../../build/examples_rclpy_pointcloud_publisher/examples_rclpy_pointcloud_publisher.egg-info/PKG-INFO
+[3.609s] writing dependency_links to ../../../../../build/examples_rclpy_pointcloud_publisher/examples_rclpy_pointcloud_publisher.egg-info/dependency_links.txt
+[3.609s] writing entry points to ../../../../../build/examples_rclpy_pointcloud_publisher/examples_rclpy_pointcloud_publisher.egg-info/entry_points.txt
+[3.609s] writing requirements to ../../../../../build/examples_rclpy_pointcloud_publisher/examples_rclpy_pointcloud_publisher.egg-info/requires.txt
+[3.609s] writing top-level names to ../../../../../build/examples_rclpy_pointcloud_publisher/examples_rclpy_pointcloud_publisher.egg-info/top_level.txt
+[3.609s] writing manifest file '../../../../../build/examples_rclpy_pointcloud_publisher/examples_rclpy_pointcloud_publisher.egg-info/SOURCES.txt'
+[3.609s] reading manifest file '../../../../../build/examples_rclpy_pointcloud_publisher/examples_rclpy_pointcloud_publisher.egg-info/SOURCES.txt'
+[3.610s] writing manifest file '../../../../../build/examples_rclpy_pointcloud_publisher/examples_rclpy_pointcloud_publisher.egg-info/SOURCES.txt'
+[3.610s] running build
+[3.610s] running build_py
+[3.610s] creating /home/aitthikit/Memekhos_ws/build/examples_rclpy_pointcloud_publisher/build
+[3.610s] creating /home/aitthikit/Memekhos_ws/build/examples_rclpy_pointcloud_publisher/build/lib
+[3.610s] creating /home/aitthikit/Memekhos_ws/build/examples_rclpy_pointcloud_publisher/build/lib/examples_rclpy_pointcloud_publisher
+[3.610s] copying examples_rclpy_pointcloud_publisher/__init__.py -> /home/aitthikit/Memekhos_ws/build/examples_rclpy_pointcloud_publisher/build/lib/examples_rclpy_pointcloud_publisher
+[3.611s] copying examples_rclpy_pointcloud_publisher/pointcloud_publisher.py -> /home/aitthikit/Memekhos_ws/build/examples_rclpy_pointcloud_publisher/build/lib/examples_rclpy_pointcloud_publisher
+[3.611s] running install
+[3.611s] running install_lib
+[3.611s] creating /home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher/lib/python3.10/site-packages/examples_rclpy_pointcloud_publisher
+[3.612s] copying /home/aitthikit/Memekhos_ws/build/examples_rclpy_pointcloud_publisher/build/lib/examples_rclpy_pointcloud_publisher/__init__.py -> /home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher/lib/python3.10/site-packages/examples_rclpy_pointcloud_publisher
+[3.612s] copying /home/aitthikit/Memekhos_ws/build/examples_rclpy_pointcloud_publisher/build/lib/examples_rclpy_pointcloud_publisher/pointcloud_publisher.py -> /home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher/lib/python3.10/site-packages/examples_rclpy_pointcloud_publisher
+[3.614s] byte-compiling /home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher/lib/python3.10/site-packages/examples_rclpy_pointcloud_publisher/__init__.py to __init__.cpython-310.pyc
+[3.614s] byte-compiling /home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher/lib/python3.10/site-packages/examples_rclpy_pointcloud_publisher/pointcloud_publisher.py to pointcloud_publisher.cpython-310.pyc
+[3.614s] running install_data
+[3.614s] creating /home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher/share/ament_index
+[3.615s] creating /home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher/share/ament_index/resource_index
+[3.615s] creating /home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher/share/ament_index/resource_index/packages
+[3.615s] copying resource/examples_rclpy_pointcloud_publisher -> /home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher/share/ament_index/resource_index/packages
+[3.615s] copying package.xml -> /home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher/share/examples_rclpy_pointcloud_publisher
+[3.633s] running install_egg_info
+[3.633s] Copying ../../../../../build/examples_rclpy_pointcloud_publisher/examples_rclpy_pointcloud_publisher.egg-info to /home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher/lib/python3.10/site-packages/examples_rclpy_pointcloud_publisher-0.15.2-py3.10.egg-info
+[3.633s] running install_scripts
+[3.694s] Installing pointcloud_publisher script to /home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher/lib/examples_rclpy_pointcloud_publisher
+[3.694s] writing list of installed files to '/home/aitthikit/Memekhos_ws/build/examples_rclpy_pointcloud_publisher/install.log'
+[3.735s] Invoked command in '/home/aitthikit/Memekhos_ws/src/examples/rclpy/topics/pointcloud_publisher' returned '0': PYTHONPATH=/home/aitthikit/Memekhos_ws/build/examples_rclpy_pointcloud_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../../build/examples_rclpy_pointcloud_publisher build --build-base /home/aitthikit/Memekhos_ws/build/examples_rclpy_pointcloud_publisher/build install --record /home/aitthikit/Memekhos_ws/build/examples_rclpy_pointcloud_publisher/install.log --single-version-externally-managed install_data

@@ -1,0 +1,21 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from lab1_interface/srv/SetNoise.srv
+// generated code does not contain a copyright notice
+
+#include "std_msgs/msg/Float64.idl"
+#include "std_msgs/msg/Int32.idl"
+
+module lab1_interface {
+  module srv {
+    struct SetNoise_Request {
+      std_msgs::msg::Float64 mean;
+
+      std_msgs::msg::Float64 variance;
+
+      std_msgs::msg::Int32 scale;
+    };
+    struct SetNoise_Response {
+      uint8 structure_needs_at_least_one_member;
+    };
+  };
+};

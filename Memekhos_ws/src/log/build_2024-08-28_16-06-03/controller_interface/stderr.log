@@ -1,0 +1,83 @@
+gmake[2]: *** Deleting file 'rosidl_typesupport_cpp/controller_interface/srv/set_target__type_support.cpp'
+gmake[2]: *** wait: No child processes.  Stop.
+gmake[2]: *** Deleting file 'rosidl_typesupport_fastrtps_c/controller_interface/srv/detail/set_target__rosidl_typesupport_fastrtps_c.h'
+gmake[2]: *** Waiting for unfinished jobs....
+gmake[2]: *** wait: No child processes.  Stop.
+gmake[1]: *** [CMakeFiles/Makefile2:291: CMakeFiles/controller_interface__rosidl_typesupport_fastrtps_cpp.dir/all] Error 2
+gmake[1]: *** [CMakeFiles/Makefile2:394: CMakeFiles/controller_interface__rosidl_typesupport_cpp.dir/all] Interrupt
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/lark/visitors.py", line 107, in _call_userfunc
+    f = getattr(self, tree.data)
+AttributeError: 'ValidateSymbols' object has no attribute 'expansion'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/opt/ros/humble/lib/rosidl_typesupport_introspection_c/rosidl_typesupport_introspection_c", line 31, in <module>
+    sys.exit(main())
+  File "/opt/ros/humble/lib/rosidl_typesupport_introspection_c/rosidl_typesupport_introspection_c", line 27, in main
+    generate_c(args.generator_arguments_file)
+  File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_typesupport_introspection_c/__init__.py", line 31, in generate_c
+    return generate_files(generator_arguments_file, mapping)
+  File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_cmake/__init__.py", line 74, in generate_files
+    idl_file = parse_idl_file(locator)
+  File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_parser/parser.py", line 64, in parse_idl_file
+    content = parse_idl_string(string, png_file=png_file)
+  File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_parser/parser.py", line 72, in parse_idl_string
+    tree = get_ast_from_idl_string(idl_string)
+  File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_parser/parser.py", line 88, in get_ast_from_idl_string
+    _parser = Lark(grammar, start='specification', maybe_placeholders=False)
+  File "/usr/lib/python3/dist-packages/lark/lark.py", line 383, in __init__
+    self.terminals, self.rules, self.ignore_tokens = self.grammar.compile(self.options.start, terminals_to_keep)
+  File "/usr/lib/python3/dist-packages/lark/load_grammar.py", line 734, in compile
+    tree = transformer.transform(rule_tree)
+  File "/usr/lib/python3/dist-packages/lark/visitors.py", line 252, in transform
+    tree = t.transform(tree)
+  File "/usr/lib/python3/dist-packages/lark/visitors.py", line 272, in transform
+    subtree.children = list(self._transform_children(subtree.children))
+  File "/usr/lib/python3/dist-packages/lark/visitors.py", line 138, in _transform_children
+    res = self._transform_tree(c)
+  File "/usr/lib/python3/dist-packages/lark/visitors.py", line 268, in _transform_tree
+    return self._call_userfunc(tree)
+  File "/usr/lib/python3/dist-packages/lark/visitors.py", line 109, in _call_userfunc
+    return self.__default__(tree.data, children, tree.meta)
+  File "/usr/lib/python3/dist-packages/lark/visitors.py", line 168, in __default__
+    return Tree(data, children, meta)
+  File "/usr/lib/python3/dist-packages/lark/tree.py", line 52, in __init__
+    def __init__(self, data: str, children: 'List[Branch[_Leaf_T]]', meta: Optional[Meta]=None) -> None:
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/opt/ros/humble/lib/rosidl_typesupport_fastrtps_c/rosidl_typesupport_fastrtps_c", line 33, in <module>
+    sys.exit(main())
+  File "/opt/ros/humble/lib/rosidl_typesupport_fastrtps_c/rosidl_typesupport_fastrtps_c", line 29, in main
+    generate_typesupport_fastrtps_c(args.generator_arguments_file)
+  File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_typesupport_fastrtps_c/__init__.py", line 24, in generate_typesupport_fastrtps_c
+    return generate_files(generator_arguments_file, mapping)
+  File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_cmake/__init__.py", line 87, in generate_files
+    expand_template(
+  File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_cmake/__init__.py", line 149, in expand_template
+    interpreter.string(template_content, template_path, locals=data)
+  File "/usr/lib/python3/dist-packages/em.py", line 2391, in string
+    self.safe(scanner, True, locals)
+  File "/usr/lib/python3/dist-packages/em.py", line 2401, in safe
+    self.parse(scanner, locals)
+  File "/usr/lib/python3/dist-packages/em.py", line 2421, in parse
+    token.run(self, locals)
+  File "/usr/lib/python3/dist-packages/em.py", line 1543, in run
+    sequence = interpreter.evaluate(sequenceCode, locals)
+  File "/usr/lib/python3/dist-packages/em.py", line 2573, in evaluate
+    result = eval(expression, self.globals, locals)
+  File "<string>", line 1, in <module>
+KeyboardInterrupt
+Exception ignored in: <function Interpreter.__del__ at 0x79ffc40ba8c0>
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/em.py", line 2094, in __del__
+  File "/usr/lib/python3/dist-packages/em.py", line 2157, in shutdown
+  File "/usr/lib/python3/dist-packages/em.py", line 2647, in finalize
+  File "/usr/lib/python3/dist-packages/em.py", line 2200, in push
+AttributeError: '_io.TextIOWrapper' object has no attribute 'push'
+gmake[2]: *** [CMakeFiles/controller_interface__rosidl_typesupport_introspection_c.dir/build.make:143: rosidl_typesupport_introspection_c/controller_interface/srv/detail/set_target__rosidl_typesupport_introspection_c.h] Interrupt
+gmake[1]: *** [CMakeFiles/Makefile2:316: CMakeFiles/controller_interface__rosidl_typesupport_introspection_c.dir/all] Interrupt
+gmake[2]: *** [CMakeFiles/controller_interface__rosidl_typesupport_fastrtps_c.dir/build.make:143: rosidl_typesupport_fastrtps_c/controller_interface/srv/detail/set_target__rosidl_typesupport_fastrtps_c.h] Interrupt
+gmake[1]: *** [CMakeFiles/Makefile2:238: CMakeFiles/controller_interface__rosidl_typesupport_fastrtps_c.dir/all] Interrupt
+gmake: *** [Makefile:146: all] Interrupt

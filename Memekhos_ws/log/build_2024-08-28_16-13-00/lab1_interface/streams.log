@@ -1,0 +1,234 @@
+[0.110s] Invoking command in '/home/aitthikit/Memekhos_ws/build/lab1_interface': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aitthikit/Memekhos_ws/install/launch_testing_examples:/home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_subscriber:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_service:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_guard_conditions:/home/aitthikit/Memekhos_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake /home/aitthikit/Memekhos_ws/src/lab1_interface -DCMAKE_INSTALL_PREFIX=/home/aitthikit/Memekhos_ws/install/lab1_interface
+[1.089s] -- The C compiler identification is GNU 11.4.0
+[1.089s] -- The CXX compiler identification is GNU 11.4.0
+[1.090s] -- Detecting C compiler ABI info
+[1.090s] -- Detecting C compiler ABI info - done
+[1.090s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.090s] -- Detecting C compile features
+[1.090s] -- Detecting C compile features - done
+[1.090s] -- Detecting CXX compiler ABI info
+[1.332s] -- Detecting CXX compiler ABI info - done
+[1.350s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.352s] -- Detecting CXX compile features
+[1.354s] -- Detecting CXX compile features - done
+[1.369s] -- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.054s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[2.317s] -- Found std_msgs: 4.2.4 (/opt/ros/humble/share/std_msgs/cmake)
+[2.463s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[2.479s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[2.501s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[2.538s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.587s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.763s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[2.793s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[3.432s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[4.031s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[4.279s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[4.311s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[4.317s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[4.368s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[4.368s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[4.368s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[4.368s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[4.407s] -- Found PythonExtra: .so  
+[4.511s] -- Added test 'lint_cmake' to check CMake code style
+[4.513s] -- Added test 'xmllint' to check XML markup files
+[4.519s] -- Configuring done
+[4.559s] -- Generating done
+[4.564s] -- Build files have been written to: /home/aitthikit/Memekhos_ws/build/lab1_interface
+[4.590s] Invoked command in '/home/aitthikit/Memekhos_ws/build/lab1_interface' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aitthikit/Memekhos_ws/install/launch_testing_examples:/home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_subscriber:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_service:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_guard_conditions:/home/aitthikit/Memekhos_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake /home/aitthikit/Memekhos_ws/src/lab1_interface -DCMAKE_INSTALL_PREFIX=/home/aitthikit/Memekhos_ws/install/lab1_interface
+[4.595s] Invoking command in '/home/aitthikit/Memekhos_ws/build/lab1_interface': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aitthikit/Memekhos_ws/install/launch_testing_examples:/home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_subscriber:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_service:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_guard_conditions:/home/aitthikit/Memekhos_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/aitthikit/Memekhos_ws/build/lab1_interface -- -j12 -l12
+[4.660s] [  3%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[5.080s] [  3%] Built target lab1_interface__cpp
+[5.118s] [  3%] Built target ament_cmake_python_copy_lab1_interface
+[5.130s] [  6%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[5.587s] [  9%] [32mBuilding CXX object CMakeFiles/lab1_interface__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/lab1_interface/srv/detail/set_noise__type_support.cpp.o[0m
+[6.111s] [ 12%] [32m[1mLinking CXX shared library liblab1_interface__rosidl_typesupport_introspection_cpp.so[0m
+[6.185s] [ 12%] Built target lab1_interface__rosidl_typesupport_introspection_cpp
+[6.451s] running egg_info
+[6.452s] creating lab1_interface.egg-info
+[6.452s] writing lab1_interface.egg-info/PKG-INFO
+[6.452s] writing dependency_links to lab1_interface.egg-info/dependency_links.txt
+[6.452s] writing top-level names to lab1_interface.egg-info/top_level.txt
+[6.453s] writing manifest file 'lab1_interface.egg-info/SOURCES.txt'
+[6.454s] reading manifest file 'lab1_interface.egg-info/SOURCES.txt'
+[6.455s] writing manifest file 'lab1_interface.egg-info/SOURCES.txt'
+[6.486s] [ 12%] Built target ament_cmake_python_build_lab1_interface_egg
+[6.495s] [ 16%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[6.808s] [ 19%] [32mBuilding CXX object CMakeFiles/lab1_interface__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/lab1_interface/srv/detail/dds_fastrtps/set_noise__type_support.cpp.o[0m
+[7.202s] [ 22%] [32m[1mLinking CXX shared library liblab1_interface__rosidl_typesupport_fastrtps_cpp.so[0m
+[7.286s] [ 22%] Built target lab1_interface__rosidl_typesupport_fastrtps_cpp
+[7.296s] [ 25%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[7.536s] [ 29%] [32mBuilding CXX object CMakeFiles/lab1_interface__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/lab1_interface/srv/set_noise__type_support.cpp.o[0m
+[7.789s] [ 32%] [32m[1mLinking CXX shared library liblab1_interface__rosidl_typesupport_cpp.so[0m
+[7.830s] [ 32%] Built target lab1_interface__rosidl_typesupport_cpp
+[7.841s] [ 35%] [34m[1mGenerating C code for ROS interfaces[0m
+[8.153s] [ 38%] [32mBuilding C object CMakeFiles/lab1_interface__rosidl_generator_c.dir/rosidl_generator_c/lab1_interface/srv/detail/set_noise__functions.c.o[0m
+[8.210s] [ 41%] [32m[1mLinking C shared library liblab1_interface__rosidl_generator_c.so[0m
+[8.248s] [ 41%] Built target lab1_interface__rosidl_generator_c
+[8.259s] [ 45%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[8.545s] [ 48%] [32mBuilding CXX object CMakeFiles/lab1_interface__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/lab1_interface/srv/detail/set_noise__type_support_c.cpp.o[0m
+[8.882s] [ 51%] [32m[1mLinking CXX shared library liblab1_interface__rosidl_typesupport_fastrtps_c.so[0m
+[8.970s] [ 51%] Built target lab1_interface__rosidl_typesupport_fastrtps_c
+[8.982s] [ 54%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[9.222s] [ 58%] [32mBuilding CXX object CMakeFiles/lab1_interface__rosidl_typesupport_c.dir/rosidl_typesupport_c/lab1_interface/srv/set_noise__type_support.cpp.o[0m
+[9.254s] [ 61%] [32m[1mLinking CXX shared library liblab1_interface__rosidl_typesupport_c.so[0m
+[9.296s] [ 61%] Built target lab1_interface__rosidl_typesupport_c
+[9.307s] [ 64%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[9.606s] [ 67%] [32mBuilding C object CMakeFiles/lab1_interface__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/lab1_interface/srv/detail/set_noise__type_support.c.o[0m
+[9.650s] [ 70%] [32m[1mLinking C shared library liblab1_interface__rosidl_typesupport_introspection_c.so[0m
+[9.685s] [ 70%] Built target lab1_interface__rosidl_typesupport_introspection_c
+[9.707s] [ 70%] Built target lab1_interface
+[9.729s] [ 74%] [34m[1mGenerating Python code for ROS interfaces[0m
+[10.156s] [ 74%] Built target lab1_interface__py
+[10.179s] [ 77%] [32mBuilding C object CMakeFiles/lab1_interface__rosidl_generator_py.dir/rosidl_generator_py/lab1_interface/srv/_set_noise_s.c.o[0m
+[10.285s] [ 80%] [32m[1mLinking C shared library rosidl_generator_py/lab1_interface/liblab1_interface__rosidl_generator_py.so[0m
+[10.326s] [ 80%] Built target lab1_interface__rosidl_generator_py
+[10.348s] [ 83%] [32mBuilding C object CMakeFiles/lab1_interface__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/lab1_interface/_lab1_interface_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[10.457s] [ 87%] [32m[1mLinking C shared library rosidl_generator_py/lab1_interface/lab1_interface_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[10.498s] [ 87%] Built target lab1_interface__rosidl_typesupport_fastrtps_c__pyext
+[10.520s] [ 90%] [32mBuilding C object CMakeFiles/lab1_interface__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/lab1_interface/_lab1_interface_s.ep.rosidl_typesupport_c.c.o[0m
+[10.632s] [ 93%] [32m[1mLinking C shared library rosidl_generator_py/lab1_interface/lab1_interface_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[10.673s] [ 93%] Built target lab1_interface__rosidl_typesupport_c__pyext
+[10.695s] [ 96%] [32mBuilding C object CMakeFiles/lab1_interface__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/lab1_interface/_lab1_interface_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[10.803s] [100%] [32m[1mLinking C shared library rosidl_generator_py/lab1_interface/lab1_interface_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[10.850s] [100%] Built target lab1_interface__rosidl_typesupport_introspection_c__pyext
+[10.862s] Invoked command in '/home/aitthikit/Memekhos_ws/build/lab1_interface' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aitthikit/Memekhos_ws/install/launch_testing_examples:/home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_subscriber:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_service:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_guard_conditions:/home/aitthikit/Memekhos_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/aitthikit/Memekhos_ws/build/lab1_interface -- -j12 -l12
+[10.934s] Invoking command in '/home/aitthikit/Memekhos_ws/build/lab1_interface': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aitthikit/Memekhos_ws/install/launch_testing_examples:/home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_subscriber:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_service:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_guard_conditions:/home/aitthikit/Memekhos_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/aitthikit/Memekhos_ws/build/lab1_interface
+[10.942s] -- Install configuration: ""
+[10.943s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/ament_index/resource_index/rosidl_interfaces/lab1_interface
+[10.943s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/include/lab1_interface/lab1_interface
+[10.943s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/include/lab1_interface/lab1_interface/srv
+[10.943s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/include/lab1_interface/lab1_interface/srv/detail
+[10.943s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/include/lab1_interface/lab1_interface/srv/detail/set_noise__type_support.h
+[10.943s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/include/lab1_interface/lab1_interface/srv/detail/set_noise__functions.h
+[10.943s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/include/lab1_interface/lab1_interface/srv/detail/set_noise__struct.h
+[10.943s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/include/lab1_interface/lab1_interface/srv/detail/set_noise__functions.c
+[10.944s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/include/lab1_interface/lab1_interface/srv/set_noise.h
+[10.944s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/include/lab1_interface/lab1_interface/msg
+[10.944s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/include/lab1_interface/lab1_interface/msg/rosidl_generator_c__visibility_control.h
+[10.944s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/lab1_interface/environment/library_path.sh
+[10.944s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/lab1_interface/environment/library_path.dsv
+[10.944s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/lib/liblab1_interface__rosidl_generator_c.so
+[10.945s] -- Set runtime path of "/home/aitthikit/Memekhos_ws/install/lab1_interface/lib/liblab1_interface__rosidl_generator_c.so" to ""
+[10.945s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/lab1_interface/include/lab1_interface/lab1_interface
+[10.945s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/lab1_interface/include/lab1_interface/lab1_interface/srv
+[10.945s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/lab1_interface/include/lab1_interface/lab1_interface/srv/detail
+[10.945s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/include/lab1_interface/lab1_interface/srv/detail/set_noise__rosidl_typesupport_fastrtps_c.h
+[10.945s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/lab1_interface/include/lab1_interface/lab1_interface/msg
+[10.945s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/include/lab1_interface/lab1_interface/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[10.946s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/lib/liblab1_interface__rosidl_typesupport_fastrtps_c.so
+[10.946s] -- Set runtime path of "/home/aitthikit/Memekhos_ws/install/lab1_interface/lib/liblab1_interface__rosidl_typesupport_fastrtps_c.so" to ""
+[10.946s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/lab1_interface/include/lab1_interface/lab1_interface
+[10.946s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/lab1_interface/include/lab1_interface/lab1_interface/srv
+[10.946s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/lab1_interface/include/lab1_interface/lab1_interface/srv/detail
+[10.946s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/include/lab1_interface/lab1_interface/srv/detail/set_noise__traits.hpp
+[10.946s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/include/lab1_interface/lab1_interface/srv/detail/set_noise__struct.hpp
+[10.946s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/include/lab1_interface/lab1_interface/srv/detail/set_noise__builder.hpp
+[10.947s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/include/lab1_interface/lab1_interface/srv/set_noise.hpp
+[10.947s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/lab1_interface/include/lab1_interface/lab1_interface
+[10.947s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/lab1_interface/include/lab1_interface/lab1_interface/srv
+[10.947s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/lab1_interface/include/lab1_interface/lab1_interface/srv/detail
+[10.947s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/include/lab1_interface/lab1_interface/srv/detail/set_noise__rosidl_typesupport_fastrtps_cpp.hpp
+[10.947s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/include/lab1_interface/lab1_interface/srv/detail/dds_fastrtps
+[10.947s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/lab1_interface/include/lab1_interface/lab1_interface/msg
+[10.947s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/include/lab1_interface/lab1_interface/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[10.947s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/lib/liblab1_interface__rosidl_typesupport_fastrtps_cpp.so
+[10.947s] -- Set runtime path of "/home/aitthikit/Memekhos_ws/install/lab1_interface/lib/liblab1_interface__rosidl_typesupport_fastrtps_cpp.so" to ""
+[10.948s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/lab1_interface/include/lab1_interface/lab1_interface
+[10.948s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/lab1_interface/include/lab1_interface/lab1_interface/srv
+[10.948s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/lab1_interface/include/lab1_interface/lab1_interface/srv/detail
+[10.948s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/include/lab1_interface/lab1_interface/srv/detail/set_noise__type_support.c
+[10.948s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/include/lab1_interface/lab1_interface/srv/detail/set_noise__rosidl_typesupport_introspection_c.h
+[10.948s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/lab1_interface/include/lab1_interface/lab1_interface/msg
+[10.948s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/include/lab1_interface/lab1_interface/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[10.948s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/lib/liblab1_interface__rosidl_typesupport_introspection_c.so
+[10.949s] -- Set runtime path of "/home/aitthikit/Memekhos_ws/install/lab1_interface/lib/liblab1_interface__rosidl_typesupport_introspection_c.so" to ""
+[10.949s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/lib/liblab1_interface__rosidl_typesupport_c.so
+[10.949s] -- Set runtime path of "/home/aitthikit/Memekhos_ws/install/lab1_interface/lib/liblab1_interface__rosidl_typesupport_c.so" to ""
+[10.949s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/lab1_interface/include/lab1_interface/lab1_interface
+[10.949s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/lab1_interface/include/lab1_interface/lab1_interface/srv
+[10.949s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/lab1_interface/include/lab1_interface/lab1_interface/srv/detail
+[10.950s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/include/lab1_interface/lab1_interface/srv/detail/set_noise__type_support.cpp
+[10.950s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/include/lab1_interface/lab1_interface/srv/detail/set_noise__rosidl_typesupport_introspection_cpp.hpp
+[10.950s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/lib/liblab1_interface__rosidl_typesupport_introspection_cpp.so
+[10.950s] -- Set runtime path of "/home/aitthikit/Memekhos_ws/install/lab1_interface/lib/liblab1_interface__rosidl_typesupport_introspection_cpp.so" to ""
+[10.950s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/lib/liblab1_interface__rosidl_typesupport_cpp.so
+[10.951s] -- Set runtime path of "/home/aitthikit/Memekhos_ws/install/lab1_interface/lib/liblab1_interface__rosidl_typesupport_cpp.so" to ""
+[10.951s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/lab1_interface/environment/pythonpath.sh
+[10.951s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/lab1_interface/environment/pythonpath.dsv
+[10.951s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/local/lib/python3.10/dist-packages/lab1_interface-0.0.0-py3.10.egg-info
+[10.951s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/local/lib/python3.10/dist-packages/lab1_interface-0.0.0-py3.10.egg-info/dependency_links.txt
+[10.951s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/local/lib/python3.10/dist-packages/lab1_interface-0.0.0-py3.10.egg-info/SOURCES.txt
+[10.951s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/local/lib/python3.10/dist-packages/lab1_interface-0.0.0-py3.10.egg-info/top_level.txt
+[10.951s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/local/lib/python3.10/dist-packages/lab1_interface-0.0.0-py3.10.egg-info/PKG-INFO
+[10.952s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/local/lib/python3.10/dist-packages/lab1_interface
+[10.952s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/local/lib/python3.10/dist-packages/lab1_interface/lab1_interface_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[10.952s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/local/lib/python3.10/dist-packages/lab1_interface/lab1_interface_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[10.952s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/local/lib/python3.10/dist-packages/lab1_interface/_lab1_interface_s.ep.rosidl_typesupport_c.c
+[10.952s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/local/lib/python3.10/dist-packages/lab1_interface/lab1_interface_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[10.952s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/local/lib/python3.10/dist-packages/lab1_interface/srv
+[10.952s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/local/lib/python3.10/dist-packages/lab1_interface/srv/_set_noise_s.c
+[10.952s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/local/lib/python3.10/dist-packages/lab1_interface/srv/_set_noise.py
+[10.953s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/local/lib/python3.10/dist-packages/lab1_interface/srv/__init__.py
+[10.953s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/local/lib/python3.10/dist-packages/lab1_interface/_lab1_interface_s.ep.rosidl_typesupport_introspection_c.c
+[10.953s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/local/lib/python3.10/dist-packages/lab1_interface/__init__.py
+[10.953s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/local/lib/python3.10/dist-packages/lab1_interface/_lab1_interface_s.ep.rosidl_typesupport_fastrtps_c.c
+[10.953s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/local/lib/python3.10/dist-packages/lab1_interface/liblab1_interface__rosidl_generator_py.so
+[10.995s] Listing '/home/aitthikit/Memekhos_ws/install/lab1_interface/local/lib/python3.10/dist-packages/lab1_interface'...
+[10.995s] Compiling '/home/aitthikit/Memekhos_ws/install/lab1_interface/local/lib/python3.10/dist-packages/lab1_interface/__init__.py'...
+[10.995s] Listing '/home/aitthikit/Memekhos_ws/install/lab1_interface/local/lib/python3.10/dist-packages/lab1_interface/srv'...
+[10.995s] Compiling '/home/aitthikit/Memekhos_ws/install/lab1_interface/local/lib/python3.10/dist-packages/lab1_interface/srv/__init__.py'...
+[10.996s] Compiling '/home/aitthikit/Memekhos_ws/install/lab1_interface/local/lib/python3.10/dist-packages/lab1_interface/srv/_set_noise.py'...
+[11.000s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/local/lib/python3.10/dist-packages/lab1_interface/lab1_interface_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[11.000s] -- Set runtime path of "/home/aitthikit/Memekhos_ws/install/lab1_interface/local/lib/python3.10/dist-packages/lab1_interface/lab1_interface_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so" to ""
+[11.001s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/local/lib/python3.10/dist-packages/lab1_interface/lab1_interface_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[11.001s] -- Set runtime path of "/home/aitthikit/Memekhos_ws/install/lab1_interface/local/lib/python3.10/dist-packages/lab1_interface/lab1_interface_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so" to ""
+[11.001s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/local/lib/python3.10/dist-packages/lab1_interface/lab1_interface_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[11.002s] -- Set runtime path of "/home/aitthikit/Memekhos_ws/install/lab1_interface/local/lib/python3.10/dist-packages/lab1_interface/lab1_interface_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so" to ""
+[11.002s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/lib/liblab1_interface__rosidl_generator_py.so
+[11.002s] -- Set runtime path of "/home/aitthikit/Memekhos_ws/install/lab1_interface/lib/liblab1_interface__rosidl_generator_py.so" to ""
+[11.002s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/lab1_interface/srv/SetNoise.idl
+[11.002s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/lab1_interface/srv/SetNoise.srv
+[11.002s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/lab1_interface/srv/SetNoise_Request.msg
+[11.003s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/lab1_interface/srv/SetNoise_Response.msg
+[11.003s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/ament_index/resource_index/package_run_dependencies/lab1_interface
+[11.003s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/ament_index/resource_index/parent_prefix_path/lab1_interface
+[11.003s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/lab1_interface/environment/ament_prefix_path.sh
+[11.003s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/lab1_interface/environment/ament_prefix_path.dsv
+[11.003s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/lab1_interface/environment/path.sh
+[11.003s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/lab1_interface/environment/path.dsv
+[11.003s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/lab1_interface/local_setup.bash
+[11.004s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/lab1_interface/local_setup.sh
+[11.004s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/lab1_interface/local_setup.zsh
+[11.004s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/lab1_interface/local_setup.dsv
+[11.004s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/lab1_interface/package.dsv
+[11.004s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/ament_index/resource_index/packages/lab1_interface
+[11.004s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/lab1_interface/cmake/export_lab1_interface__rosidl_generator_cExport.cmake
+[11.005s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/lab1_interface/cmake/export_lab1_interface__rosidl_generator_cExport-noconfig.cmake
+[11.005s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/lab1_interface/cmake/export_lab1_interface__rosidl_typesupport_fastrtps_cExport.cmake
+[11.005s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/lab1_interface/cmake/export_lab1_interface__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[11.005s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/lab1_interface/cmake/export_lab1_interface__rosidl_generator_cppExport.cmake
+[11.005s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/lab1_interface/cmake/export_lab1_interface__rosidl_typesupport_fastrtps_cppExport.cmake
+[11.005s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/lab1_interface/cmake/export_lab1_interface__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[11.005s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/lab1_interface/cmake/lab1_interface__rosidl_typesupport_introspection_cExport.cmake
+[11.006s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/lab1_interface/cmake/lab1_interface__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[11.006s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/lab1_interface/cmake/lab1_interface__rosidl_typesupport_cExport.cmake
+[11.006s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/lab1_interface/cmake/lab1_interface__rosidl_typesupport_cExport-noconfig.cmake
+[11.006s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/lab1_interface/cmake/lab1_interface__rosidl_typesupport_introspection_cppExport.cmake
+[11.006s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/lab1_interface/cmake/lab1_interface__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[11.006s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/lab1_interface/cmake/lab1_interface__rosidl_typesupport_cppExport.cmake
+[11.006s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/lab1_interface/cmake/lab1_interface__rosidl_typesupport_cppExport-noconfig.cmake
+[11.007s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/lab1_interface/cmake/export_lab1_interface__rosidl_generator_pyExport.cmake
+[11.007s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/lab1_interface/cmake/export_lab1_interface__rosidl_generator_pyExport-noconfig.cmake
+[11.007s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/lab1_interface/cmake/rosidl_cmake-extras.cmake
+[11.007s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/lab1_interface/cmake/ament_cmake_export_dependencies-extras.cmake
+[11.007s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/lab1_interface/cmake/ament_cmake_export_include_directories-extras.cmake
+[11.007s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/lab1_interface/cmake/ament_cmake_export_libraries-extras.cmake
+[11.007s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/lab1_interface/cmake/ament_cmake_export_targets-extras.cmake
+[11.007s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/lab1_interface/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[11.008s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/lab1_interface/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[11.008s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/lab1_interface/cmake/lab1_interfaceConfig.cmake
+[11.008s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/lab1_interface/cmake/lab1_interfaceConfig-version.cmake
+[11.008s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1_interface/share/lab1_interface/package.xml
+[11.011s] Invoked command in '/home/aitthikit/Memekhos_ws/build/lab1_interface' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aitthikit/Memekhos_ws/install/launch_testing_examples:/home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_subscriber:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_service:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_guard_conditions:/home/aitthikit/Memekhos_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/aitthikit/Memekhos_ws/build/lab1_interface

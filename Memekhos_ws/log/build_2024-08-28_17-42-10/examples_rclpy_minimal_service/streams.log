@@ -1,0 +1,22 @@
+[2.504s] Invoking command in '/home/aitthikit/Memekhos_ws/src/examples/rclpy/services/minimal_service': PYTHONPATH=/home/aitthikit/Memekhos_ws/build/examples_rclpy_minimal_service/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_service/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_service build --build-base /home/aitthikit/Memekhos_ws/build/examples_rclpy_minimal_service/build install --record /home/aitthikit/Memekhos_ws/build/examples_rclpy_minimal_service/install.log --single-version-externally-managed install_data
+[2.935s] running egg_info
+[2.936s] writing ../../../../../build/examples_rclpy_minimal_service/examples_rclpy_minimal_service.egg-info/PKG-INFO
+[2.936s] writing dependency_links to ../../../../../build/examples_rclpy_minimal_service/examples_rclpy_minimal_service.egg-info/dependency_links.txt
+[2.936s] writing entry points to ../../../../../build/examples_rclpy_minimal_service/examples_rclpy_minimal_service.egg-info/entry_points.txt
+[2.937s] writing requirements to ../../../../../build/examples_rclpy_minimal_service/examples_rclpy_minimal_service.egg-info/requires.txt
+[2.937s] writing top-level names to ../../../../../build/examples_rclpy_minimal_service/examples_rclpy_minimal_service.egg-info/top_level.txt
+[2.939s] reading manifest file '../../../../../build/examples_rclpy_minimal_service/examples_rclpy_minimal_service.egg-info/SOURCES.txt'
+[2.941s] writing manifest file '../../../../../build/examples_rclpy_minimal_service/examples_rclpy_minimal_service.egg-info/SOURCES.txt'
+[2.941s] running build
+[2.941s] running build_py
+[2.941s] running install
+[2.942s] running install_lib
+[2.945s] running install_data
+[2.956s] running install_egg_info
+[2.983s] removing '/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_service/lib/python3.10/site-packages/examples_rclpy_minimal_service-0.15.2-py3.10.egg-info' (and everything under it)
+[2.983s] Copying ../../../../../build/examples_rclpy_minimal_service/examples_rclpy_minimal_service.egg-info to /home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_service/lib/python3.10/site-packages/examples_rclpy_minimal_service-0.15.2-py3.10.egg-info
+[2.983s] running install_scripts
+[2.986s] Installing service script to /home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_service/lib/examples_rclpy_minimal_service
+[2.986s] Installing service_member_function script to /home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_service/lib/examples_rclpy_minimal_service
+[2.987s] writing list of installed files to '/home/aitthikit/Memekhos_ws/build/examples_rclpy_minimal_service/install.log'
+[3.020s] Invoked command in '/home/aitthikit/Memekhos_ws/src/examples/rclpy/services/minimal_service' returned '0': PYTHONPATH=/home/aitthikit/Memekhos_ws/build/examples_rclpy_minimal_service/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_service/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_service build --build-base /home/aitthikit/Memekhos_ws/build/examples_rclpy_minimal_service/build install --record /home/aitthikit/Memekhos_ws/build/examples_rclpy_minimal_service/install.log --single-version-externally-managed install_data

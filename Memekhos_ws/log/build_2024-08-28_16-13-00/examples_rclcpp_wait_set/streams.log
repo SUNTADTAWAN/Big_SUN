@@ -1,0 +1,129 @@
+[0.069s] Invoking command in '/home/aitthikit/Memekhos_ws/build/examples_rclcpp_wait_set': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aitthikit/Memekhos_ws/install/launch_testing_examples:/home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_subscriber:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_service:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_guard_conditions:/home/aitthikit/Memekhos_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake /home/aitthikit/Memekhos_ws/src/examples/rclcpp/wait_set -DCMAKE_INSTALL_PREFIX=/home/aitthikit/Memekhos_ws/install/examples_rclcpp_wait_set
+[0.371s] -- The C compiler identification is GNU 11.4.0
+[0.597s] -- The CXX compiler identification is GNU 11.4.0
+[0.627s] -- Detecting C compiler ABI info
+[1.065s] -- Detecting C compiler ABI info - done
+[1.091s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.092s] -- Detecting C compile features
+[1.093s] -- Detecting C compile features - done
+[1.096s] -- Detecting CXX compiler ABI info
+[1.396s] -- Detecting CXX compiler ABI info - done
+[1.412s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.413s] -- Detecting CXX compile features
+[1.414s] -- Detecting CXX compile features - done
+[1.421s] -- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.022s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[2.243s] -- Found example_interfaces: 0.9.3 (/opt/ros/humble/share/example_interfaces/cmake)
+[2.388s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[2.400s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[2.461s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[2.525s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.602s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.184s] -- Found rclcpp: 16.0.9 (/opt/ros/humble/share/rclcpp/cmake)
+[3.495s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[3.516s] -- Found rmw_fastrtps_cpp: 6.2.6 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[3.983s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[4.047s] -- Found FastRTPS: /opt/ros/humble/include  
+[4.159s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[4.189s] -- Looking for pthread.h
+[4.369s] -- Looking for pthread.h - found
+[4.370s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[4.713s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[4.716s] -- Found Threads: TRUE  
+[5.093s] -- Found rclcpp_components: 16.0.9 (/opt/ros/humble/share/rclcpp_components/cmake)
+[5.317s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[5.520s] -- Added test 'copyright' to check source files copyright and LICENSE
+[5.525s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[5.527s] -- Configured cppcheck include dirs: /home/aitthikit/Memekhos_ws/src/examples/rclcpp/wait_set/include
+[5.527s] -- Configured cppcheck exclude dirs and/or files: 
+[5.531s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[5.531s] -- Configured cpplint exclude dirs and/or files: 
+[5.534s] -- Added test 'lint_cmake' to check CMake code style
+[5.538s] -- Added test 'uncrustify' to check C / C++ code style
+[5.538s] -- Configured uncrustify additional arguments: 
+[5.542s] -- Added test 'xmllint' to check XML markup files
+[5.546s] -- Configuring done
+[5.639s] -- Generating done
+[5.643s] -- Build files have been written to: /home/aitthikit/Memekhos_ws/build/examples_rclcpp_wait_set
+[6.547s] Invoked command in '/home/aitthikit/Memekhos_ws/build/examples_rclcpp_wait_set' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aitthikit/Memekhos_ws/install/launch_testing_examples:/home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_subscriber:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_service:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_guard_conditions:/home/aitthikit/Memekhos_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake /home/aitthikit/Memekhos_ws/src/examples/rclcpp/wait_set -DCMAKE_INSTALL_PREFIX=/home/aitthikit/Memekhos_ws/install/examples_rclcpp_wait_set
+[6.549s] Invoking command in '/home/aitthikit/Memekhos_ws/build/examples_rclcpp_wait_set': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aitthikit/Memekhos_ws/install/launch_testing_examples:/home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_subscriber:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_service:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_guard_conditions:/home/aitthikit/Memekhos_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/aitthikit/Memekhos_ws/build/examples_rclcpp_wait_set -- -j12 -l12
+[6.863s] [  4%] [32mBuilding CXX object CMakeFiles/talker.dir/src/talker.cpp.o[0m
+[15.115s] [  8%] [32m[1mLinking CXX shared library libtalker.so[0m
+[15.317s] [  8%] Built target talker
+[15.337s] [ 12%] [32mBuilding CXX object CMakeFiles/wait_set_topics_with_different_rates.dir/src/wait_set_topics_with_different_rates.cpp.o[0m
+[24.046s] [ 16%] [32m[1mLinking CXX executable wait_set_topics_with_different_rates[0m
+[24.423s] [ 16%] Built target wait_set_topics_with_different_rates
+[24.443s] [ 20%] [32mBuilding CXX object CMakeFiles/executor_random_order.dir/src/executor_random_order.cpp.o[0m
+[31.710s] [ 25%] [32m[1mLinking CXX executable executor_random_order[0m
+[32.021s] [ 25%] Built target executor_random_order
+[32.040s] [ 29%] [32mBuilding CXX object CMakeFiles/wait_set_random_order.dir/src/wait_set_random_order.cpp.o[0m
+[39.765s] [ 33%] [32m[1mLinking CXX executable wait_set_random_order[0m
+[40.125s] [ 33%] Built target wait_set_random_order
+[40.144s] [ 37%] [32mBuilding CXX object CMakeFiles/wait_set_topics_and_timer.dir/src/wait_set_topics_and_timer.cpp.o[0m
+[47.802s] [ 41%] [32m[1mLinking CXX executable wait_set_topics_and_timer[0m
+[48.130s] [ 41%] Built target wait_set_topics_and_timer
+[48.151s] [ 58%] [32mBuilding CXX object CMakeFiles/wait_set.dir/src/wait_set.cpp.o[0m
+[48.151s] [ 58%] [32mBuilding CXX object CMakeFiles/thread_safe_wait_set.dir/src/thread_safe_wait_set.cpp.o[0m
+[48.151s] [ 58%] [32mBuilding CXX object CMakeFiles/wait_set_listener.dir/rclcpp_components/node_main_wait_set_listener.cpp.o[0m
+[48.151s] [ 58%] [32mBuilding CXX object CMakeFiles/static_wait_set.dir/src/static_wait_set.cpp.o[0m
+[48.152s] [ 62%] [32mBuilding CXX object CMakeFiles/listener.dir/src/listener.cpp.o[0m
+[48.152s] [ 66%] [32mBuilding CXX object CMakeFiles/wait_set_talker.dir/rclcpp_components/node_main_wait_set_talker.cpp.o[0m
+[51.254s] [ 70%] [32m[1mLinking CXX executable wait_set_talker[0m
+[51.282s] [ 75%] [32m[1mLinking CXX executable wait_set_listener[0m
+[51.397s] [ 75%] Built target wait_set_talker
+[51.428s] [ 75%] Built target wait_set_listener
+[56.336s] [ 79%] [32m[1mLinking CXX executable static_wait_set[0m
+[56.709s] [ 79%] Built target static_wait_set
+[57.019s] [ 83%] [32m[1mLinking CXX executable thread_safe_wait_set[0m
+[57.024s] [ 87%] [32m[1mLinking CXX shared library liblistener.so[0m
+[57.168s] [ 91%] [32m[1mLinking CXX executable wait_set[0m
+[57.465s] [ 91%] Built target listener
+[57.478s] [ 91%] Built target thread_safe_wait_set
+[57.486s] [ 95%] [32mBuilding CXX object CMakeFiles/wait_set_composed.dir/src/wait_set_composed.cpp.o[0m
+[57.590s] [ 95%] Built target wait_set
+[60.025s] [100%] [32m[1mLinking CXX executable wait_set_composed[0m
+[60.186s] [100%] Built target wait_set_composed
+[60.197s] Invoked command in '/home/aitthikit/Memekhos_ws/build/examples_rclcpp_wait_set' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aitthikit/Memekhos_ws/install/launch_testing_examples:/home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_subscriber:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_service:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_guard_conditions:/home/aitthikit/Memekhos_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/aitthikit/Memekhos_ws/build/examples_rclcpp_wait_set -- -j12 -l12
+[60.290s] Invoking command in '/home/aitthikit/Memekhos_ws/build/examples_rclcpp_wait_set': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aitthikit/Memekhos_ws/install/launch_testing_examples:/home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_subscriber:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_service:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_guard_conditions:/home/aitthikit/Memekhos_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/aitthikit/Memekhos_ws/build/examples_rclcpp_wait_set
+[60.308s] -- Install configuration: ""
+[60.309s] -- Installing: /home/aitthikit/Memekhos_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_talker
+[60.311s] -- Set runtime path of "/home/aitthikit/Memekhos_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_talker" to ""
+[60.311s] -- Installing: /home/aitthikit/Memekhos_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_listener
+[60.312s] -- Set runtime path of "/home/aitthikit/Memekhos_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_listener" to ""
+[60.312s] -- Installing: /home/aitthikit/Memekhos_ws/install/examples_rclcpp_wait_set/lib/libtalker.so
+[60.317s] -- Set runtime path of "/home/aitthikit/Memekhos_ws/install/examples_rclcpp_wait_set/lib/libtalker.so" to ""
+[60.318s] -- Installing: /home/aitthikit/Memekhos_ws/install/examples_rclcpp_wait_set/lib/liblistener.so
+[60.330s] -- Set runtime path of "/home/aitthikit/Memekhos_ws/install/examples_rclcpp_wait_set/lib/liblistener.so" to ""
+[60.330s] -- Installing: /home/aitthikit/Memekhos_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set
+[60.336s] -- Set runtime path of "/home/aitthikit/Memekhos_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set" to ""
+[60.336s] -- Installing: /home/aitthikit/Memekhos_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/static_wait_set
+[60.340s] -- Set runtime path of "/home/aitthikit/Memekhos_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/static_wait_set" to ""
+[60.340s] -- Installing: /home/aitthikit/Memekhos_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/thread_safe_wait_set
+[60.345s] -- Set runtime path of "/home/aitthikit/Memekhos_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/thread_safe_wait_set" to ""
+[60.345s] -- Installing: /home/aitthikit/Memekhos_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_topics_and_timer
+[60.348s] -- Set runtime path of "/home/aitthikit/Memekhos_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_topics_and_timer" to ""
+[60.349s] -- Installing: /home/aitthikit/Memekhos_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_random_order
+[60.352s] -- Set runtime path of "/home/aitthikit/Memekhos_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_random_order" to ""
+[60.352s] -- Installing: /home/aitthikit/Memekhos_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/executor_random_order
+[60.356s] -- Set runtime path of "/home/aitthikit/Memekhos_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/executor_random_order" to ""
+[60.356s] -- Installing: /home/aitthikit/Memekhos_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_topics_with_different_rates
+[60.359s] -- Set runtime path of "/home/aitthikit/Memekhos_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_topics_with_different_rates" to ""
+[60.360s] -- Installing: /home/aitthikit/Memekhos_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_composed
+[60.360s] -- Set runtime path of "/home/aitthikit/Memekhos_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_composed" to ""
+[60.360s] -- Installing: /home/aitthikit/Memekhos_ws/install/examples_rclcpp_wait_set/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_wait_set
+[60.360s] -- Installing: /home/aitthikit/Memekhos_ws/install/examples_rclcpp_wait_set/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_wait_set
+[60.361s] -- Installing: /home/aitthikit/Memekhos_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/environment/ament_prefix_path.sh
+[60.361s] -- Installing: /home/aitthikit/Memekhos_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/environment/ament_prefix_path.dsv
+[60.361s] -- Installing: /home/aitthikit/Memekhos_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/environment/path.sh
+[60.361s] -- Installing: /home/aitthikit/Memekhos_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/environment/path.dsv
+[60.361s] -- Installing: /home/aitthikit/Memekhos_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/local_setup.bash
+[60.361s] -- Installing: /home/aitthikit/Memekhos_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/local_setup.sh
+[60.361s] -- Installing: /home/aitthikit/Memekhos_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/local_setup.zsh
+[60.361s] -- Installing: /home/aitthikit/Memekhos_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/local_setup.dsv
+[60.362s] -- Installing: /home/aitthikit/Memekhos_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/package.dsv
+[60.362s] -- Installing: /home/aitthikit/Memekhos_ws/install/examples_rclcpp_wait_set/share/ament_index/resource_index/packages/examples_rclcpp_wait_set
+[60.362s] -- Installing: /home/aitthikit/Memekhos_ws/install/examples_rclcpp_wait_set/share/ament_index/resource_index/rclcpp_components/examples_rclcpp_wait_set
+[60.362s] -- Installing: /home/aitthikit/Memekhos_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/cmake/examples_rclcpp_wait_setConfig.cmake
+[60.362s] -- Installing: /home/aitthikit/Memekhos_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/cmake/examples_rclcpp_wait_setConfig-version.cmake
+[60.362s] -- Installing: /home/aitthikit/Memekhos_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/package.xml
+[60.365s] Invoked command in '/home/aitthikit/Memekhos_ws/build/examples_rclcpp_wait_set' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aitthikit/Memekhos_ws/install/launch_testing_examples:/home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_subscriber:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_service:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_guard_conditions:/home/aitthikit/Memekhos_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/aitthikit/Memekhos_ws/build/examples_rclcpp_wait_set

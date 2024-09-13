@@ -1,0 +1,7 @@
+{
+  "package_name": "controller_interface",
+  "non_idl_tuples": [
+    "/home/aitthikit/Memekhos_ws/src/controller_interface:srv/SetTarget.srv",
+    "/home/aitthikit/Memekhos_ws/src/controller_interface:srv/SetParam.srv"
+  ]
+}

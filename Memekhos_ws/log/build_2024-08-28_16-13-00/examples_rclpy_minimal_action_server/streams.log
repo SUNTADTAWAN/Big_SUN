@@ -1,0 +1,53 @@
+[3.719s] Invoking command in '/home/aitthikit/Memekhos_ws/src/examples/rclpy/actions/minimal_action_server': PYTHONPATH=/home/aitthikit/Memekhos_ws/build/examples_rclpy_minimal_action_server/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_action_server build --build-base /home/aitthikit/Memekhos_ws/build/examples_rclpy_minimal_action_server/build install --record /home/aitthikit/Memekhos_ws/build/examples_rclpy_minimal_action_server/install.log --single-version-externally-managed install_data
+[4.559s] running egg_info
+[4.577s] creating ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info
+[4.577s] writing ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/PKG-INFO
+[4.578s] writing dependency_links to ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/dependency_links.txt
+[4.578s] writing entry points to ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/entry_points.txt
+[4.578s] writing requirements to ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/requires.txt
+[4.578s] writing top-level names to ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/top_level.txt
+[4.578s] writing manifest file '../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/SOURCES.txt'
+[4.582s] reading manifest file '../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/SOURCES.txt'
+[4.583s] writing manifest file '../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/SOURCES.txt'
+[4.584s] running build
+[4.584s] running build_py
+[4.584s] creating /home/aitthikit/Memekhos_ws/build/examples_rclpy_minimal_action_server/build
+[4.584s] creating /home/aitthikit/Memekhos_ws/build/examples_rclpy_minimal_action_server/build/lib
+[4.584s] creating /home/aitthikit/Memekhos_ws/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server
+[4.584s] copying examples_rclpy_minimal_action_server/server_queue_goals.py -> /home/aitthikit/Memekhos_ws/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server
+[4.585s] copying examples_rclpy_minimal_action_server/server.py -> /home/aitthikit/Memekhos_ws/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server
+[4.585s] copying examples_rclpy_minimal_action_server/server_single_goal.py -> /home/aitthikit/Memekhos_ws/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server
+[4.585s] copying examples_rclpy_minimal_action_server/server_not_composable.py -> /home/aitthikit/Memekhos_ws/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server
+[4.585s] copying examples_rclpy_minimal_action_server/server_defer.py -> /home/aitthikit/Memekhos_ws/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server
+[4.586s] copying examples_rclpy_minimal_action_server/__init__.py -> /home/aitthikit/Memekhos_ws/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server
+[4.586s] running install
+[4.587s] running install_lib
+[4.588s] creating /home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server
+[4.591s] copying /home/aitthikit/Memekhos_ws/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server/server_queue_goals.py -> /home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server
+[4.591s] copying /home/aitthikit/Memekhos_ws/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server/server.py -> /home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server
+[4.600s] copying /home/aitthikit/Memekhos_ws/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server/server_single_goal.py -> /home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server
+[4.600s] copying /home/aitthikit/Memekhos_ws/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server/server_not_composable.py -> /home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server
+[4.601s] copying /home/aitthikit/Memekhos_ws/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server/server_defer.py -> /home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server
+[4.601s] copying /home/aitthikit/Memekhos_ws/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server/__init__.py -> /home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server
+[4.604s] byte-compiling /home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server/server_queue_goals.py to server_queue_goals.cpython-310.pyc
+[4.606s] byte-compiling /home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server/server.py to server.cpython-310.pyc
+[4.615s] byte-compiling /home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server/server_single_goal.py to server_single_goal.cpython-310.pyc
+[4.617s] byte-compiling /home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server/server_not_composable.py to server_not_composable.cpython-310.pyc
+[4.618s] byte-compiling /home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server/server_defer.py to server_defer.cpython-310.pyc
+[4.619s] byte-compiling /home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server/__init__.py to __init__.cpython-310.pyc
+[4.620s] running install_data
+[4.620s] creating /home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server/share/ament_index
+[4.620s] creating /home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server/share/ament_index/resource_index
+[4.621s] creating /home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server/share/ament_index/resource_index/packages
+[4.621s] copying resource/examples_rclpy_minimal_action_server -> /home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server/share/ament_index/resource_index/packages
+[4.622s] copying package.xml -> /home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server/share/examples_rclpy_minimal_action_server
+[4.622s] running install_egg_info
+[4.628s] Copying ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info to /home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server-0.15.2-py3.10.egg-info
+[4.644s] running install_scripts
+[4.729s] Installing server script to /home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[4.730s] Installing server_defer script to /home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[4.730s] Installing server_not_composable script to /home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[4.730s] Installing server_queue_goals script to /home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[4.731s] Installing server_single_goal script to /home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[4.731s] writing list of installed files to '/home/aitthikit/Memekhos_ws/build/examples_rclpy_minimal_action_server/install.log'
+[5.370s] Invoked command in '/home/aitthikit/Memekhos_ws/src/examples/rclpy/actions/minimal_action_server' returned '0': PYTHONPATH=/home/aitthikit/Memekhos_ws/build/examples_rclpy_minimal_action_server/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_action_server build --build-base /home/aitthikit/Memekhos_ws/build/examples_rclpy_minimal_action_server/build install --record /home/aitthikit/Memekhos_ws/build/examples_rclpy_minimal_action_server/install.log --single-version-externally-managed install_data

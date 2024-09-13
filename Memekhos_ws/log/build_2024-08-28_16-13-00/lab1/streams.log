@@ -1,0 +1,92 @@
+[1.522s] Invoking command in '/home/aitthikit/Memekhos_ws/build/lab1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aitthikit/Memekhos_ws/install/launch_testing_examples:/home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_subscriber:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_service:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_guard_conditions:/home/aitthikit/Memekhos_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake /home/aitthikit/Memekhos_ws/src/lab1 -DCMAKE_INSTALL_PREFIX=/home/aitthikit/Memekhos_ws/install/lab1
+[1.736s] -- The C compiler identification is GNU 11.4.0
+[1.954s] -- The CXX compiler identification is GNU 11.4.0
+[1.978s] -- Detecting C compiler ABI info
+[2.182s] -- Detecting C compiler ABI info - done
+[2.209s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.209s] -- Detecting C compile features
+[2.210s] -- Detecting C compile features - done
+[2.232s] -- Detecting CXX compiler ABI info
+[2.604s] -- Detecting CXX compiler ABI info - done
+[2.619s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.619s] -- Detecting CXX compile features
+[2.640s] -- Detecting CXX compile features - done
+[2.648s] -- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+[3.154s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[3.450s] -- Found rclcpp: 16.0.9 (/opt/ros/humble/share/rclcpp/cmake)
+[3.588s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[3.603s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[3.627s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[3.657s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[3.709s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.955s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[3.965s] -- Found rmw_fastrtps_cpp: 6.2.6 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[4.380s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[4.441s] -- Found FastRTPS: /opt/ros/humble/include  
+[4.592s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[4.626s] -- Looking for pthread.h
+[4.851s] -- Looking for pthread.h - found
+[4.852s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[4.983s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[4.985s] -- Found Threads: TRUE  
+[5.357s] -- Found rclpy: 3.3.13 (/opt/ros/humble/share/rclpy/cmake)
+[5.565s] -- Configuring done
+[5.575s] -- Generating done
+[5.577s] -- Build files have been written to: /home/aitthikit/Memekhos_ws/build/lab1
+[5.594s] Invoked command in '/home/aitthikit/Memekhos_ws/build/lab1' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aitthikit/Memekhos_ws/install/launch_testing_examples:/home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_subscriber:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_service:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_guard_conditions:/home/aitthikit/Memekhos_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake /home/aitthikit/Memekhos_ws/src/lab1 -DCMAKE_INSTALL_PREFIX=/home/aitthikit/Memekhos_ws/install/lab1
+[5.595s] Invoking command in '/home/aitthikit/Memekhos_ws/build/lab1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aitthikit/Memekhos_ws/install/launch_testing_examples:/home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_subscriber:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_service:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_guard_conditions:/home/aitthikit/Memekhos_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/aitthikit/Memekhos_ws/build/lab1 -- -j12 -l12
+[6.219s] [  0%] Built target ament_cmake_python_copy_lab1
+[6.219s] [ 50%] [32mBuilding CXX object CMakeFiles/cpp_node_test.dir/src/cpp_node.cpp.o[0m
+[6.219s] [100%] [32m[1mLinking CXX executable cpp_node_test[0m
+[6.278s] [100%] Built target cpp_node_test
+[6.614s] running egg_info
+[6.615s] creating lab1.egg-info
+[6.615s] writing lab1.egg-info/PKG-INFO
+[6.615s] writing dependency_links to lab1.egg-info/dependency_links.txt
+[6.615s] writing top-level names to lab1.egg-info/top_level.txt
+[6.616s] writing manifest file 'lab1.egg-info/SOURCES.txt'
+[6.618s] reading manifest file 'lab1.egg-info/SOURCES.txt'
+[6.619s] writing manifest file 'lab1.egg-info/SOURCES.txt'
+[6.653s] [100%] Built target ament_cmake_python_build_lab1_egg
+[6.668s] Invoked command in '/home/aitthikit/Memekhos_ws/build/lab1' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aitthikit/Memekhos_ws/install/launch_testing_examples:/home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_subscriber:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_service:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_guard_conditions:/home/aitthikit/Memekhos_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/aitthikit/Memekhos_ws/build/lab1 -- -j12 -l12
+[6.710s] Invoking command in '/home/aitthikit/Memekhos_ws/build/lab1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aitthikit/Memekhos_ws/install/launch_testing_examples:/home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_subscriber:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_service:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_guard_conditions:/home/aitthikit/Memekhos_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/aitthikit/Memekhos_ws/build/lab1
+[6.738s] -- Install configuration: ""
+[6.739s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1/share/lab1/environment/pythonpath.sh
+[6.739s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1/share/lab1/environment/pythonpath.dsv
+[6.739s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1/local/lib/python3.10/dist-packages/lab1-0.0.0-py3.10.egg-info
+[6.739s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1/local/lib/python3.10/dist-packages/lab1-0.0.0-py3.10.egg-info/dependency_links.txt
+[6.739s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1/local/lib/python3.10/dist-packages/lab1-0.0.0-py3.10.egg-info/SOURCES.txt
+[6.740s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1/local/lib/python3.10/dist-packages/lab1-0.0.0-py3.10.egg-info/top_level.txt
+[6.740s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1/local/lib/python3.10/dist-packages/lab1-0.0.0-py3.10.egg-info/PKG-INFO
+[6.740s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1/local/lib/python3.10/dist-packages/lab1
+[6.740s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1/local/lib/python3.10/dist-packages/lab1/__init__.py
+[6.740s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1/local/lib/python3.10/dist-packages/lab1/dummy_module.py
+[6.789s] Listing '/home/aitthikit/Memekhos_ws/install/lab1/local/lib/python3.10/dist-packages/lab1'...
+[6.789s] Compiling '/home/aitthikit/Memekhos_ws/install/lab1/local/lib/python3.10/dist-packages/lab1/__init__.py'...
+[6.789s] Compiling '/home/aitthikit/Memekhos_ws/install/lab1/local/lib/python3.10/dist-packages/lab1/dummy_module.py'...
+[6.797s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1/lib/lab1/dummy_script.py
+[6.798s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1/lib/lab1/noise_generator.py
+[6.801s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1/lib/lab1/velocity_mux.py
+[6.801s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1/lib/lab1/cpp_node_test
+[6.801s] -- Set runtime path of "/home/aitthikit/Memekhos_ws/install/lab1/lib/lab1/cpp_node_test" to ""
+[6.801s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1/share/lab1/launch
+[6.802s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1/share/lab1/launch/simple-param.launch.py
+[6.802s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1/share/lab1/launch/simple.launch.py
+[6.802s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1/share/lab1/launch/lab1.launch.py
+[6.802s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1/share/lab1/launch/lab1-execute-process.launch.py
+[6.802s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1/share/ament_index/resource_index/package_run_dependencies/lab1
+[6.802s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1/share/ament_index/resource_index/parent_prefix_path/lab1
+[6.802s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1/share/lab1/environment/ament_prefix_path.sh
+[6.802s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1/share/lab1/environment/ament_prefix_path.dsv
+[6.803s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1/share/lab1/environment/path.sh
+[6.803s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1/share/lab1/environment/path.dsv
+[6.803s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1/share/lab1/local_setup.bash
+[6.803s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1/share/lab1/local_setup.sh
+[6.803s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1/share/lab1/local_setup.zsh
+[6.803s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1/share/lab1/local_setup.dsv
+[6.803s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1/share/lab1/package.dsv
+[6.803s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1/share/ament_index/resource_index/packages/lab1
+[6.804s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1/share/lab1/cmake/lab1Config.cmake
+[6.804s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1/share/lab1/cmake/lab1Config-version.cmake
+[6.804s] -- Installing: /home/aitthikit/Memekhos_ws/install/lab1/share/lab1/package.xml
+[6.807s] Invoked command in '/home/aitthikit/Memekhos_ws/build/lab1' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aitthikit/Memekhos_ws/install/launch_testing_examples:/home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_subscriber:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_service:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_guard_conditions:/home/aitthikit/Memekhos_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/aitthikit/Memekhos_ws/build/lab1

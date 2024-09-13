@@ -1,0 +1,44 @@
+[0.047s] Invoking command in '/home/aitthikit/Memekhos_ws/build/lecture2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aitthikit/Memekhos_ws/install/launch_testing_examples:/home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_subscriber:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_service:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_guard_conditions:/home/aitthikit/Memekhos_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/aitthikit/Memekhos_ws/build/lecture2 -- -j12 -l12
+[0.138s] [100%] Built target cpp_node_test
+[0.147s] [100%] Built target ament_cmake_python_copy_lecture2
+[0.546s] running egg_info
+[0.547s] writing lecture2.egg-info/PKG-INFO
+[0.547s] writing dependency_links to lecture2.egg-info/dependency_links.txt
+[0.548s] writing top-level names to lecture2.egg-info/top_level.txt
+[0.550s] reading manifest file 'lecture2.egg-info/SOURCES.txt'
+[0.551s] writing manifest file 'lecture2.egg-info/SOURCES.txt'
+[0.584s] [100%] Built target ament_cmake_python_build_lecture2_egg
+[0.595s] Invoked command in '/home/aitthikit/Memekhos_ws/build/lecture2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aitthikit/Memekhos_ws/install/launch_testing_examples:/home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_subscriber:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_service:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_guard_conditions:/home/aitthikit/Memekhos_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/aitthikit/Memekhos_ws/build/lecture2 -- -j12 -l12
+[0.628s] Invoking command in '/home/aitthikit/Memekhos_ws/build/lecture2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aitthikit/Memekhos_ws/install/launch_testing_examples:/home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_subscriber:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_service:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_guard_conditions:/home/aitthikit/Memekhos_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/aitthikit/Memekhos_ws/build/lecture2
+[0.635s] -- Install configuration: ""
+[0.636s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/lecture2/share/lecture2/environment/pythonpath.sh
+[0.636s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/lecture2/share/lecture2/environment/pythonpath.dsv
+[0.636s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/lecture2/local/lib/python3.10/dist-packages/lecture2-0.0.0-py3.10.egg-info
+[0.637s] -- Installing: /home/aitthikit/Memekhos_ws/install/lecture2/local/lib/python3.10/dist-packages/lecture2-0.0.0-py3.10.egg-info/dependency_links.txt
+[0.637s] -- Installing: /home/aitthikit/Memekhos_ws/install/lecture2/local/lib/python3.10/dist-packages/lecture2-0.0.0-py3.10.egg-info/SOURCES.txt
+[0.637s] -- Installing: /home/aitthikit/Memekhos_ws/install/lecture2/local/lib/python3.10/dist-packages/lecture2-0.0.0-py3.10.egg-info/top_level.txt
+[0.637s] -- Installing: /home/aitthikit/Memekhos_ws/install/lecture2/local/lib/python3.10/dist-packages/lecture2-0.0.0-py3.10.egg-info/PKG-INFO
+[0.637s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/lecture2/local/lib/python3.10/dist-packages/lecture2
+[0.637s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/lecture2/local/lib/python3.10/dist-packages/lecture2/__init__.py
+[0.637s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/lecture2/local/lib/python3.10/dist-packages/lecture2/dummy_module.py
+[0.676s] Listing '/home/aitthikit/Memekhos_ws/install/lecture2/local/lib/python3.10/dist-packages/lecture2'...
+[0.681s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/lecture2/lib/lecture2/dummy_script.py
+[0.681s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/lecture2/lib/lecture2/manual_teleop.py
+[0.681s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/lecture2/lib/lecture2/cpp_node_test
+[0.681s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/lecture2/share/lecture2
+[0.681s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/lecture2/share/ament_index/resource_index/package_run_dependencies/lecture2
+[0.682s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/lecture2/share/ament_index/resource_index/parent_prefix_path/lecture2
+[0.682s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/lecture2/share/lecture2/environment/ament_prefix_path.sh
+[0.682s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/lecture2/share/lecture2/environment/ament_prefix_path.dsv
+[0.682s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/lecture2/share/lecture2/environment/path.sh
+[0.682s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/lecture2/share/lecture2/environment/path.dsv
+[0.682s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/lecture2/share/lecture2/local_setup.bash
+[0.682s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/lecture2/share/lecture2/local_setup.sh
+[0.683s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/lecture2/share/lecture2/local_setup.zsh
+[0.683s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/lecture2/share/lecture2/local_setup.dsv
+[0.683s] -- Installing: /home/aitthikit/Memekhos_ws/install/lecture2/share/lecture2/package.dsv
+[0.683s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/lecture2/share/ament_index/resource_index/packages/lecture2
+[0.683s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/lecture2/share/lecture2/cmake/lecture2Config.cmake
+[0.683s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/lecture2/share/lecture2/cmake/lecture2Config-version.cmake
+[0.683s] -- Up-to-date: /home/aitthikit/Memekhos_ws/install/lecture2/share/lecture2/package.xml
+[0.685s] Invoked command in '/home/aitthikit/Memekhos_ws/build/lecture2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aitthikit/Memekhos_ws/install/launch_testing_examples:/home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_subscriber:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_service:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_guard_conditions:/home/aitthikit/Memekhos_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/aitthikit/Memekhos_ws/build/lecture2

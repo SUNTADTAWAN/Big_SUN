@@ -1,0 +1,87 @@
+[0.040s] Invoking command in '/home/aitthikit/Memekhos_ws/build/examples_rclcpp_minimal_subscriber': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aitthikit/Memekhos_ws/install/launch_testing_examples:/home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_subscriber:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_service:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_guard_conditions:/home/aitthikit/Memekhos_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake /home/aitthikit/Memekhos_ws/src/examples/rclcpp/topics/minimal_subscriber -DCMAKE_INSTALL_PREFIX=/home/aitthikit/Memekhos_ws/install/examples_rclcpp_minimal_subscriber
+[2.380s] -- The C compiler identification is GNU 11.4.0
+[2.380s] -- The CXX compiler identification is GNU 11.4.0
+[2.382s] -- Detecting C compiler ABI info
+[2.382s] -- Detecting C compiler ABI info - done
+[2.382s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.382s] -- Detecting C compile features
+[2.382s] -- Detecting C compile features - done
+[2.382s] -- Detecting CXX compiler ABI info
+[2.382s] -- Detecting CXX compiler ABI info - done
+[2.382s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.383s] -- Detecting CXX compile features
+[2.383s] -- Detecting CXX compile features - done
+[2.383s] -- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.383s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[2.383s] -- Found rclcpp: 16.0.9 (/opt/ros/humble/share/rclcpp/cmake)
+[2.383s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[2.383s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[2.383s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[2.383s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.383s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.383s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[2.383s] -- Found rmw_fastrtps_cpp: 6.2.6 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[2.384s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[2.384s] -- Found FastRTPS: /opt/ros/humble/include  
+[2.384s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.384s] -- Looking for pthread.h
+[2.384s] -- Looking for pthread.h - found
+[2.384s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[2.384s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[2.384s] -- Found Threads: TRUE  
+[2.384s] -- Found rclcpp_components: 16.0.9 (/opt/ros/humble/share/rclcpp_components/cmake)
+[2.384s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.438s] -- Added test 'copyright' to check source files copyright and LICENSE
+[2.438s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[2.438s] -- Configured cppcheck include dirs: 
+[2.438s] -- Configured cppcheck exclude dirs and/or files: 
+[2.438s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[2.438s] -- Configured cpplint exclude dirs and/or files: 
+[2.438s] -- Added test 'lint_cmake' to check CMake code style
+[2.439s] -- Added test 'uncrustify' to check C / C++ code style
+[2.439s] -- Configured uncrustify additional arguments: 
+[2.439s] -- Added test 'xmllint' to check XML markup files
+[2.441s] -- Configuring done
+[2.529s] -- Generating done
+[2.540s] -- Build files have been written to: /home/aitthikit/Memekhos_ws/build/examples_rclcpp_minimal_subscriber
+[2.590s] Invoked command in '/home/aitthikit/Memekhos_ws/build/examples_rclcpp_minimal_subscriber' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aitthikit/Memekhos_ws/install/launch_testing_examples:/home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_subscriber:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_service:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_guard_conditions:/home/aitthikit/Memekhos_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake /home/aitthikit/Memekhos_ws/src/examples/rclcpp/topics/minimal_subscriber -DCMAKE_INSTALL_PREFIX=/home/aitthikit/Memekhos_ws/install/examples_rclcpp_minimal_subscriber
+[2.591s] Invoking command in '/home/aitthikit/Memekhos_ws/build/examples_rclcpp_minimal_subscriber': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aitthikit/Memekhos_ws/install/launch_testing_examples:/home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_subscriber:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_service:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_guard_conditions:/home/aitthikit/Memekhos_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/aitthikit/Memekhos_ws/build/examples_rclcpp_minimal_subscriber -- -j12 -l12
+[4.264s] [  4%] [32mBuilding CXX object CMakeFiles/subscriber_member_function.dir/member_function.cpp.o[0m
+[4.264s] [  8%] [32mBuilding CXX object CMakeFiles/subscriber_lambda.dir/lambda.cpp.o[0m
+[4.264s] [ 12%] [32mBuilding CXX object CMakeFiles/subscriber_member_function_with_topic_statistics.dir/member_function_with_topic_statistics.cpp.o[0m
+[4.264s] [ 16%] [32mBuilding CXX object CMakeFiles/subscriber_member_function_with_type_adapter.dir/member_function_with_type_adapter.cpp.o[0m
+[4.264s] [ 20%] [32mBuilding CXX object CMakeFiles/subscriber_not_composable.dir/not_composable.cpp.o[0m
+[4.265s] [ 25%] [32mBuilding CXX object CMakeFiles/subscriber_content_filtering.dir/content_filtering.cpp.o[0m
+[4.265s] [ 29%] [32mBuilding CXX object CMakeFiles/subscriber_member_function_with_unique_network_flow_endpoints.dir/member_function_with_unique_network_flow_endpoints.cpp.o[0m
+[4.265s] [ 33%] [32mBuilding CXX object CMakeFiles/wait_set_subscriber_library.dir/wait_set_subscriber.cpp.o[0m
+[4.265s] [ 37%] [32mBuilding CXX object CMakeFiles/wait_set_subscriber_library.dir/static_wait_set_subscriber.cpp.o[0m
+[4.265s] [ 41%] [32mBuilding CXX object CMakeFiles/wait_set_subscriber.dir/rclcpp_components/node_main_wait_set_subscriber.cpp.o[0m
+[4.265s] [ 45%] [32mBuilding CXX object CMakeFiles/static_wait_set_subscriber.dir/rclcpp_components/node_main_static_wait_set_subscriber.cpp.o[0m
+[4.265s] [ 50%] [32mBuilding CXX object CMakeFiles/time_triggered_wait_set_subscriber.dir/rclcpp_components/node_main_time_triggered_wait_set_subscriber.cpp.o[0m
+[6.172s] gmake[2]: *** [CMakeFiles/time_triggered_wait_set_subscriber.dir/build.make:76: CMakeFiles/time_triggered_wait_set_subscriber.dir/rclcpp_components/node_main_time_triggered_wait_set_subscriber.cpp.o] Interrupt
+[6.172s] gmake[1]: *** [CMakeFiles/Makefile2:417: CMakeFiles/time_triggered_wait_set_subscriber.dir/all] Interrupt
+[6.172s] gmake[2]: *** wait: No child processes.  Stop.
+[6.173s] gmake[2]: *** [CMakeFiles/wait_set_subscriber_library.dir/build.make:76: CMakeFiles/wait_set_subscriber_library.dir/wait_set_subscriber.cpp.o] Interrupt
+[6.173s] gmake[2]: *** [CMakeFiles/static_wait_set_subscriber.dir/build.make:76: CMakeFiles/static_wait_set_subscriber.dir/rclcpp_components/node_main_static_wait_set_subscriber.cpp.o] Interrupt
+[6.177s] gmake[2]: *** [CMakeFiles/subscriber_not_composable.dir/build.make:76: CMakeFiles/subscriber_not_composable.dir/not_composable.cpp.o] Interrupt
+[6.178s] gmake[2]: *** Waiting for unfinished jobs....
+[6.178s] gmake[2]: *** wait: No child processes.  Stop.
+[6.192s] gmake[2]: *** [CMakeFiles/subscriber_member_function_with_type_adapter.dir/build.make:76: CMakeFiles/subscriber_member_function_with_type_adapter.dir/member_function_with_type_adapter.cpp.o] Interrupt
+[6.192s] gmake[1]: *** [CMakeFiles/Makefile2:365: CMakeFiles/wait_set_subscriber.dir/all] Error 2
+[6.192s] gmake[1]: *** [CMakeFiles/Makefile2:235: CMakeFiles/subscriber_member_function_with_type_adapter.dir/all] Interrupt
+[6.192s] gmake[1]: *** [CMakeFiles/Makefile2:287: CMakeFiles/subscriber_not_composable.dir/all] Interrupt
+[6.192s] gmake[1]: *** [CMakeFiles/Makefile2:391: CMakeFiles/static_wait_set_subscriber.dir/all] Interrupt
+[6.192s] gmake[2]: *** [CMakeFiles/subscriber_content_filtering.dir/build.make:76: CMakeFiles/subscriber_content_filtering.dir/content_filtering.cpp.o] Interrupt
+[6.193s] gmake[2]: *** [CMakeFiles/subscriber_lambda.dir/build.make:76: CMakeFiles/subscriber_lambda.dir/lambda.cpp.o] Interrupt
+[6.193s] gmake[2]: *** [CMakeFiles/subscriber_member_function_with_topic_statistics.dir/build.make:76: CMakeFiles/subscriber_member_function_with_topic_statistics.dir/member_function_with_topic_statistics.cpp.o] Interrupt
+[6.193s] gmake[1]: *** [CMakeFiles/Makefile2:157: CMakeFiles/subscriber_lambda.dir/all] Interrupt
+[6.193s] gmake[1]: *** [CMakeFiles/Makefile2:209: CMakeFiles/subscriber_member_function_with_topic_statistics.dir/all] Interrupt
+[6.193s] gmake[1]: *** [CMakeFiles/Makefile2:313: CMakeFiles/subscriber_content_filtering.dir/all] Interrupt
+[6.193s] gmake[2]: *** [CMakeFiles/subscriber_member_function_with_unique_network_flow_endpoints.dir/build.make:76: CMakeFiles/subscriber_member_function_with_unique_network_flow_endpoints.dir/member_function_with_unique_network_flow_endpoints.cpp.o] Interrupt
+[6.193s] gmake[1]: *** [CMakeFiles/Makefile2:261: CMakeFiles/subscriber_member_function_with_unique_network_flow_endpoints.dir/all] Interrupt
+[6.193s] gmake[2]: *** [CMakeFiles/subscriber_member_function.dir/build.make:76: CMakeFiles/subscriber_member_function.dir/member_function.cpp.o] Interrupt
+[6.193s] gmake[1]: *** [CMakeFiles/Makefile2:183: CMakeFiles/subscriber_member_function.dir/all] Interrupt
+[6.193s] gmake[2]: *** [CMakeFiles/wait_set_subscriber_library.dir/build.make:90: CMakeFiles/wait_set_subscriber_library.dir/static_wait_set_subscriber.cpp.o] Interrupt
+[6.193s] gmake[1]: *** [CMakeFiles/Makefile2:339: CMakeFiles/wait_set_subscriber_library.dir/all] Interrupt
+[6.194s] gmake: *** [Makefile:146: all] Interrupt
+[6.288s] Invoked command in '/home/aitthikit/Memekhos_ws/build/examples_rclcpp_minimal_subscriber' returned '-2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aitthikit/Memekhos_ws/install/launch_testing_examples:/home/aitthikit/Memekhos_ws/install/examples_rclpy_pointcloud_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_subscriber:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_service:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_publisher:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_server:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_action_client:/home/aitthikit/Memekhos_ws/install/examples_rclpy_guard_conditions:/home/aitthikit/Memekhos_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/aitthikit/Memekhos_ws/build/examples_rclcpp_minimal_subscriber -- -j12 -l12

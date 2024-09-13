@@ -1,0 +1,3 @@
+std_msgs/Float64 mean
+std_msgs/Float64 variance
+std_msgs/Int32 scale

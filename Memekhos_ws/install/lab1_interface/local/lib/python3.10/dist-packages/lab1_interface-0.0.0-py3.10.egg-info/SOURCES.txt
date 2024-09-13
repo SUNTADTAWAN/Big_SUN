@@ -1,0 +1,8 @@
+setup.py
+lab1_interface/__init__.py
+lab1_interface.egg-info/PKG-INFO
+lab1_interface.egg-info/SOURCES.txt
+lab1_interface.egg-info/dependency_links.txt
+lab1_interface.egg-info/top_level.txt
+lab1_interface/srv/__init__.py
+lab1_interface/srv/_set_noise.py

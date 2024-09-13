@@ -1,0 +1,23 @@
+[2.668s] Invoking command in '/home/aitthikit/Memekhos_ws/src/examples/rclpy/topics/minimal_subscriber': PYTHONPATH=/home/aitthikit/Memekhos_ws/build/examples_rclpy_minimal_subscriber/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_subscriber build --build-base /home/aitthikit/Memekhos_ws/build/examples_rclpy_minimal_subscriber/build install --record /home/aitthikit/Memekhos_ws/build/examples_rclpy_minimal_subscriber/install.log --single-version-externally-managed install_data
+[3.086s] running egg_info
+[3.088s] writing ../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info/PKG-INFO
+[3.088s] writing dependency_links to ../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info/dependency_links.txt
+[3.088s] writing entry points to ../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info/entry_points.txt
+[3.089s] writing requirements to ../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info/requires.txt
+[3.089s] writing top-level names to ../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info/top_level.txt
+[3.092s] reading manifest file '../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info/SOURCES.txt'
+[3.093s] writing manifest file '../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info/SOURCES.txt'
+[3.093s] running build
+[3.094s] running build_py
+[3.095s] running install
+[3.097s] running install_lib
+[3.097s] running install_data
+[3.097s] running install_egg_info
+[3.099s] removing '/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages/examples_rclpy_minimal_subscriber-0.15.2-py3.10.egg-info' (and everything under it)
+[3.099s] Copying ../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info to /home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages/examples_rclpy_minimal_subscriber-0.15.2-py3.10.egg-info
+[3.100s] running install_scripts
+[3.140s] Installing subscriber_lambda script to /home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_subscriber/lib/examples_rclpy_minimal_subscriber
+[3.140s] Installing subscriber_member_function script to /home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_subscriber/lib/examples_rclpy_minimal_subscriber
+[3.140s] Installing subscriber_old_school script to /home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_subscriber/lib/examples_rclpy_minimal_subscriber
+[3.140s] writing list of installed files to '/home/aitthikit/Memekhos_ws/build/examples_rclpy_minimal_subscriber/install.log'
+[3.245s] Invoked command in '/home/aitthikit/Memekhos_ws/src/examples/rclpy/topics/minimal_subscriber' returned '0': PYTHONPATH=/home/aitthikit/Memekhos_ws/build/examples_rclpy_minimal_subscriber/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aitthikit/Memekhos_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_subscriber build --build-base /home/aitthikit/Memekhos_ws/build/examples_rclpy_minimal_subscriber/build install --record /home/aitthikit/Memekhos_ws/build/examples_rclpy_minimal_subscriber/install.log --single-version-externally-managed install_data
