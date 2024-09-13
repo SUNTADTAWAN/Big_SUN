@@ -6,7 +6,7 @@
    ```
 2.  Navigate to the project directory:
    ```sh
-   cd Big_SUN
+      cd Big_SUN
    ```
 3. Run launch file:
    ```sh
